@@ -1,0 +1,308 @@
+{
+  "source": "EKSM Law",
+  "last_updated": "2026-03-16T04:56:20.254513",
+  "total_entries": 60,
+  "cutoff_date": "2026-01-01",
+  "entries": [
+    {
+      "url": "https://eksm.com/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612169"
+    },
+    {
+      "url": "https://eksm.com/active-case/james-j-lynch-md-ltd-dba-swift-institute-announces-data-breach/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612174"
+    },
+    {
+      "url": "https://eksm.com/active-case/dot-foods-inc-and-dot-transportation-inc-announces-6374-data-breach/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612176"
+    },
+    {
+      "url": "https://eksm.com/active-case/gulshan-management-services-inc-announces-128652-data-breach/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612177"
+    },
+    {
+      "url": "https://eksm.com/active-case/medical-center-llp-announces-data-breach/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612178"
+    },
+    {
+      "url": "https://eksm.com/cases-investigations/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612179"
+    },
+    {
+      "url": "https://eksm.com/practice-areas/data-breach-privacy/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612180"
+    },
+    {
+      "url": "https://eksm.com/practice-areas/cryptocurrency-scam/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612181"
+    },
+    {
+      "url": "https://eksm.com/practice-areas/class-action/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612182"
+    },
+    {
+      "url": "https://eksm.com/practice-areas/personal-injury/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612183"
+    },
+    {
+      "url": "https://eksm.com/practice-areas/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612184"
+    },
+    {
+      "url": "https://www.eksm.com/privacy",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612185"
+    },
+    {
+      "url": "https://eksm.com/about-us/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612186"
+    },
+    {
+      "url": "https://eksm.com/wins/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612187"
+    },
+    {
+      "url": "https://eksm.com/careers/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612188"
+    },
+    {
+      "url": "https://eksm.com/about-us-2/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612189"
+    },
+    {
+      "url": "https://eksm.com/privacy-policy-2/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612190"
+    },
+    {
+      "url": "https://eksm.com/terms-of-use/",
+      "date": null,
+      "scraped_at": "2026-01-20T00:34:33.612190"
+    },
+    {
+      "url": "https://eksm.com/active-case/minnesota-department-of-human-services-announces-303965-data-breach/",
+      "date": "",
+      "scraped_at": "2026-01-27T18:00:53.170682"
+    },
+    {
+      "url": "https://eksm.com/active-case/venezia-bulk-transport-inc-announces-6987-data-breach/",
+      "date": "",
+      "scraped_at": "2026-01-27T18:00:53.170689"
+    },
+    {
+      "url": "https://eksm.com/active-case/reproductive-medicine-associates-of-michigan-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-01-27T18:00:53.170691"
+    },
+    {
+      "url": "https://eksm.com/active-case/civil-service-employees-association-inc-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-01-27T18:00:53.170692"
+    },
+    {
+      "url": "https://eksm.com/active-case/michigan-sugar-company-announces-16689-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-03T16:48:41.020363"
+    },
+    {
+      "url": "https://eksm.com/active-case/central-ozarks-medical-center-announces-11818-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-03T16:48:41.020369"
+    },
+    {
+      "url": "https://eksm.com/active-case/nova-biomedical-corp-announces-10764-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-03T16:48:41.020371"
+    },
+    {
+      "url": "https://eksm.com/active-case/360-dental-announces-11273-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-03T16:48:41.020372"
+    },
+    {
+      "url": "https://eksm.com/active-case/visiting-nurse-association-of-texas-announces-12673-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-06T18:10:34.807180"
+    },
+    {
+      "url": "https://eksm.com/active-case/cfd-investments-inc-announces-31371-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-06T18:10:34.807187"
+    },
+    {
+      "url": "https://eksm.com/active-case/alpine-ear-nose-and-throat-announces-65648-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-06T18:10:34.807188"
+    },
+    {
+      "url": "https://eksm.com/active-case/news-press-gazette-company-announces-11440-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-06T18:10:34.807189"
+    },
+    {
+      "url": "https://eksm.com/active-case/counseling-center-of-wayne-and-holmes-counties-announces-83354-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-11T20:14:01.349193"
+    },
+    {
+      "url": "https://eksm.com/active-case/murex-petroleum-corporation-announces-3816-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-11T20:14:01.349199"
+    },
+    {
+      "url": "https://eksm.com/active-case/ua-sprinkler-fitters-local-669-joint-apprenticeship-and-training-committee-announces-20623-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-11T20:14:01.349201"
+    },
+    {
+      "url": "https://eksm.com/active-case/cottage-hospital-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-11T20:14:01.349202"
+    },
+    {
+      "url": "https://eksm.com/active-case/triad-radiology-associate-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-18T04:58:46.450061"
+    },
+    {
+      "url": "https://eksm.com/active-case/north-atlantic-states-carpenters-benefit-funds-announces-28000-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-18T04:58:46.450069"
+    },
+    {
+      "url": "https://eksm.com/active-case/linden-bancshares-inc-dba-texana-bank-n-a-announces-1324-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-19T03:52:12.700093"
+    },
+    {
+      "url": "https://eksm.com/active-case/convenientmd-llc-announces-1332-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-19T03:52:12.700099"
+    },
+    {
+      "url": "https://eksm.com/active-case/synergy-advanced-healthcare-llc-announces-1260-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-19T03:52:12.700101"
+    },
+    {
+      "url": "https://eksm.com/active-case/pit-river-health-service-inc-announces-1800-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-19T03:52:12.700102"
+    },
+    {
+      "url": "https://eksm.com/active-case/emanuel-medical-center-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-24T08:37:53.928697"
+    },
+    {
+      "url": "https://eksm.com/active-case/great-pittsburgh-orthopedic-associate-announces-56954-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-24T08:37:53.928703"
+    },
+    {
+      "url": "https://eksm.com/active-case/tak-broadband-llc-announces-20648-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-24T08:37:53.928706"
+    },
+    {
+      "url": "https://eksm.com/active-case/north-east-medical-services-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-24T08:37:53.928708"
+    },
+    {
+      "url": "https://eksm.com/active-case/qualderm-partners-llc-announces-174837-data-breach/",
+      "date": "",
+      "scraped_at": "2026-02-26T05:45:41.782056"
+    },
+    {
+      "url": "https://eksm.com/active-case/laurel-health-centers-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-02T05:19:59.482404"
+    },
+    {
+      "url": "https://eksm.com/active-case/florence-county-commission-on-alcohol-drug-abuse-announces-1157-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-02T05:19:59.482412"
+    },
+    {
+      "url": "https://eksm.com/active-case/hn-tax-inc-d-b-a-csa-tax-announces-2892-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-02T05:19:59.482414"
+    },
+    {
+      "url": "https://eksm.com/active-case/childrens-council-of-san-francisco-announces-12655-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-05T05:25:03.351837"
+    },
+    {
+      "url": "https://eksm.com/active-case/the-institute-for-human-resources-and-services-inc-announces-3370-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-05T05:25:03.351845"
+    },
+    {
+      "url": "https://eksm.com/active-case/toledo-school-for-the-arts-announces-3891-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-05T05:25:03.351848"
+    },
+    {
+      "url": "https://eksm.com/active-case/university-of-hawai%ca%bbi-cancer-centers-epidemiology-division-announces-87493-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-05T05:25:03.351850"
+    },
+    {
+      "url": "https://eksm.com/active-case/dl-parts-company-announces-1515-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-06T05:50:32.296866"
+    },
+    {
+      "url": "https://eksm.com/active-case/compensation-rating-inspection-bureau-announces-62117-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-06T05:50:32.296874"
+    },
+    {
+      "url": "https://eksm.com/active-case/valley-radiology-consultants-medical-group-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-06T05:50:32.296877"
+    },
+    {
+      "url": "https://eksm.com/active-case/ls-mechanical-announces-5139-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-11T04:39:12.937355"
+    },
+    {
+      "url": "https://eksm.com/active-case/barrio-comprehensive-family-health-care-center-announces-19885-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-13T04:39:41.533926"
+    },
+    {
+      "url": "https://eksm.com/active-case/the-orthopaedic-institute-of-western-kentucky-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-13T04:39:41.533934"
+    },
+    {
+      "url": "https://eksm.com/active-case/tieu-dental-corporation-announce-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-13T04:39:41.533936"
+    },
+    {
+      "url": "https://eksm.com/active-case/ericsson-inc-announces-15661-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-16T04:56:20.254503"
+    }
+  ]
+}

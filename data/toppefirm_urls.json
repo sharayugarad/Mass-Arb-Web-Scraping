@@ -1,0 +1,23 @@
+{
+  "source": "Toppe Law Firm",
+  "last_updated": "2026-03-16T04:56:00.428729",
+  "total_entries": 3,
+  "cutoff_date": "2026-01-01",
+  "entries": [
+    {
+      "url": "https://www.toppefirm.com/fabletics",
+      "date": "2026-01-15T00:00:00",
+      "scraped_at": "2026-01-20T02:04:11.942511"
+    },
+    {
+      "url": "https://www.toppefirm.com/marriott",
+      "date": "2026-01-15T00:00:00",
+      "scraped_at": "2026-01-20T02:04:11.942519"
+    },
+    {
+      "url": "https://www.toppefirm.com/loreal",
+      "date": "2026-02-12T00:00:00",
+      "scraped_at": "2026-02-12T18:47:57.333402"
+    }
+  ]
+}
