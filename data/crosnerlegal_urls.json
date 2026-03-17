@@ -1,7 +1,7 @@
 {
   "source": "Crosner Legal",
-  "last_updated": "2026-03-16T04:56:13.359681",
-  "total_entries": 28,
+  "last_updated": "2026-03-17T04:16:28.894164",
+  "total_entries": 30,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -143,6 +143,16 @@
       "url": "https://crosnerlegal.com/attorney/zachary-crosner/",
       "date": "2026-03-13T18:57:41",
       "scraped_at": "2026-03-16T04:56:13.359677"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-wrongful-termination-lawyer-2/",
+      "date": "2026-03-16T23:06:05",
+      "scraped_at": "2026-03-17T04:16:28.894152"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-unemployment-benefits/",
+      "date": "2026-03-16T23:32:53",
+      "scraped_at": "2026-03-17T04:16:28.894159"
     }
   ]
 }

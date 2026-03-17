@@ -1,7 +1,7 @@
 {
   "source": "EKSM Law",
-  "last_updated": "2026-03-16T04:56:20.254513",
-  "total_entries": 60,
+  "last_updated": "2026-03-17T04:16:37.304570",
+  "total_entries": 64,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -303,6 +303,26 @@
       "url": "https://eksm.com/active-case/ericsson-inc-announces-15661-data-breach/",
       "date": "",
       "scraped_at": "2026-03-16T04:56:20.254503"
+    },
+    {
+      "url": "https://eksm.com/active-case/osi-systems-inc-announces-4910-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-17T04:16:37.304559"
+    },
+    {
+      "url": "https://eksm.com/active-case/banner-capital-bank-announces-1844-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-17T04:16:37.304564"
+    },
+    {
+      "url": "https://eksm.com/active-case/teamsters-local-175-announces-24780-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-17T04:16:37.304565"
+    },
+    {
+      "url": "https://eksm.com/active-case/dermatology-associates-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-17T04:16:37.304567"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-16T04:55:57.088101",
-  "total_entries": 334,
+  "last_updated": "2026-03-17T04:16:12.120924",
+  "total_entries": 339,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -1673,6 +1673,31 @@
       "url": "https://www.classaction.org/news/weber-lawsuit-claims-metal-bristles-on-recalled-grill-brushes-pose-serious-ingestion-hazard",
       "date": "2026-03-12T00:00:00",
       "scraped_at": "2026-03-16T04:55:57.088097"
+    },
+    {
+      "url": "https://www.classaction.org/washington-labor-law-break-lawsuits",
+      "date": "",
+      "scraped_at": "2026-03-17T04:16:12.120891"
+    },
+    {
+      "url": "https://www.classaction.org/news/2.5m-fidelity-investments-settlement-ends-litigation-over-august-2024-data-breach",
+      "date": "2026-03-13T00:00:00",
+      "scraped_at": "2026-03-17T04:16:12.120906"
+    },
+    {
+      "url": "https://www.classaction.org/news/303m-ncaa-settlement-resolves-litigation-over-alleged-volunteer-coach-wage-suppression",
+      "date": "2026-03-13T00:00:00",
+      "scraped_at": "2026-03-17T04:16:12.120910"
+    },
+    {
+      "url": "https://www.classaction.org/news/5m-google-settlement-ends-class-action-lawsuit-over-alleged-automatically-renewing-google-play-store-subscriptions",
+      "date": "2026-03-13T00:00:00",
+      "scraped_at": "2026-03-17T04:16:12.120913"
+    },
+    {
+      "url": "https://www.classaction.org/news/4m-essen-health-care-settlement-ends-class-action-lawsuit-over-march-2023-data-breach",
+      "date": "2026-03-13T00:00:00",
+      "scraped_at": "2026-03-17T04:16:12.120915"
     }
   ]
 }
