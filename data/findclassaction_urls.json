@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-17T04:16:12.120924",
-  "total_entries": 339,
+  "last_updated": "2026-03-19T04:16:36.405957",
+  "total_entries": 353,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -1698,6 +1698,76 @@
       "url": "https://www.classaction.org/news/4m-essen-health-care-settlement-ends-class-action-lawsuit-over-march-2023-data-breach",
       "date": "2026-03-13T00:00:00",
       "scraped_at": "2026-03-17T04:16:12.120915"
+    },
+    {
+      "url": "https://www.classaction.org/potomac-river-pollution-lawsuit",
+      "date": "",
+      "scraped_at": "2026-03-18T04:14:38.072567"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/woundtech-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-18T04:14:38.072575"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/medpeds-associates-of-sarasota-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-18T04:14:38.072578"
+    },
+    {
+      "url": "https://www.classaction.org/news/woflow-hit-with-class-action-over-march-2026-data-breach-allegedly-affecting-thousands",
+      "date": "2026-03-17T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072583"
+    },
+    {
+      "url": "https://www.classaction.org/news/dior-settlement-ends-class-action-lawsuit-over-january-2025-data-breach",
+      "date": "2026-03-17T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072586"
+    },
+    {
+      "url": "https://www.classaction.org/news/15k-myers-auto-group-settlement-ends-class-action-lawsuit-over-may-2025-data-breach",
+      "date": "2026-03-17T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072588"
+    },
+    {
+      "url": "https://www.classaction.org/news/mercedes-benz-settlement-resolves-class-action-lawsuit-over-high-cost-emissions-warranty-parts",
+      "date": "2026-03-17T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072590"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-claims-tennessee-mill-has-failed-to-control-unbelievably-horrible-noxious-odor-emissions",
+      "date": "2026-03-17T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072592"
+    },
+    {
+      "url": "https://www.classaction.org/news/st.-andrews-resources-for-seniors-system-settlement-ends-class-action-over-feb.-2024-data-breach",
+      "date": "2026-03-16T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072594"
+    },
+    {
+      "url": "https://www.classaction.org/news/tangoe-settlement-resolves-class-action-lawsuit-over-november-2022-data-breach",
+      "date": "2026-03-16T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072596"
+    },
+    {
+      "url": "https://www.classaction.org/news/grammarly-lawsuit-alleges-software-uses-names-of-journalists-authors-for-expert-review-ai-tool-without-consent",
+      "date": "2026-03-16T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072598"
+    },
+    {
+      "url": "https://www.classaction.org/news/tcpa-lawsuit-claims-ruggable-sent-unlawful-marketing-texts-to-consumer-cell-phones",
+      "date": "2026-03-16T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072601"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-lawsuit-claims-uberx-rides-often-fail-to-arrive-on-time-despite-higher-cost",
+      "date": "2026-03-16T00:00:00",
+      "scraped_at": "2026-03-18T04:14:38.072602"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/kaplan-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-19T04:16:36.405943"
     }
   ]
 }

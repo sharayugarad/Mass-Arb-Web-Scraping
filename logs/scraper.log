@@ -13870,3 +13870,633 @@ Sending email report...
 ================================================================================
 2026-03-17 04:17:00 - __main__ - INFO - Scraping completed successfully!
 2026-03-17 04:17:00 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:24 - utils.storage - INFO - No existing file found: classactionlegalhelp_urls.json. Creating new.
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 12 existing entries from gutridesafier_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 339 existing entries from findclassaction_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 59 existing entries from shamisgentile_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 3 existing entries from toppefirm_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 0 existing entries from consumersprotectionlaw_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 2 existing entries from consumerlegalaction_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 30 existing entries from crosnerlegal_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - No existing file found: edelson_urls.json. Creating new.
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 296 existing entries from stopconsumerharm_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 64 existing entries from eksm_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 52 existing entries from fmfpc_urls.json
+2026-03-18 04:14:24 - utils.storage - INFO - Loaded 14 existing entries from lanternlabaton_urls.json
+2026-03-18 04:14:24 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:24 - __main__ - INFO - Starting Class Action Scraper
+2026-03-18 04:14:24 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:24 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:24 - __main__ - INFO - Processing: classactionlegalhelp
+2026-03-18 04:14:24 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:24 - scrapers.base_scraper - INFO - Starting scraper for Class Action Legal Help
+2026-03-18 04:14:24 - scrapers.base_scraper - INFO - Source URL: https://www.classactionlegalhelp.co/
+2026-03-18 04:14:24 - scrapers.base_scraper - INFO - Fetching https://www.classactionlegalhelp.co/ (attempt 1/3)
+2026-03-18 04:14:25 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.classactionlegalhelp.co/: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-18 04:14:26 - scrapers.base_scraper - INFO - Fetching https://www.classactionlegalhelp.co/ (attempt 2/3)
+2026-03-18 04:14:27 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.classactionlegalhelp.co/: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-18 04:14:29 - scrapers.base_scraper - INFO - Fetching https://www.classactionlegalhelp.co/ (attempt 3/3)
+2026-03-18 04:14:29 - scrapers.base_scraper - WARNING - Attempt 3 failed for https://www.classactionlegalhelp.co/: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-18 04:14:29 - scrapers.base_scraper - ERROR - All retries failed for https://www.classactionlegalhelp.co/
+2026-03-18 04:14:29 - scrapers.classactionlegalhelp_scraper - ERROR - Error during scraping: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-18 04:14:29 - scrapers.base_scraper - ERROR - Error scraping Class Action Legal Help: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+Traceback (most recent call last):
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 442, in run
+    result = self.scrape()
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/classactionlegalhelp_scraper.py", line 22, in scrape
+    response = self.get_page(self.source_url)
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 90, in get_page
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/zvenv/lib/python3.14/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-18 04:14:29 - __main__ - INFO - Completed classactionlegalhelp:
+2026-03-18 04:14:29 - __main__ - INFO -   - Status: error
+2026-03-18 04:14:29 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:29 - __main__ - INFO -   - Total URLs: 0
+2026-03-18 04:14:29 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:29 - __main__ - INFO - Processing: gutridesafier
+2026-03-18 04:14:29 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:29 - scrapers.base_scraper - INFO - Starting scraper for Gutride Safier Investigations
+2026-03-18 04:14:29 - scrapers.base_scraper - INFO - Source URL: https://www.gutridesafier.com/
+2026-03-18 04:14:29 - scrapers.gutridesafier_scraper - INFO - Scraping target: https://www.gutridesafier.com/our-work
+2026-03-18 04:14:29 - scrapers.base_scraper - INFO - Fetching https://www.gutridesafier.com/our-work (attempt 1/3)
+2026-03-18 04:14:32 - scrapers.gutridesafier_scraper - INFO - Found 12 URLs from https://www.gutridesafier.com/our-work
+2026-03-18 04:14:32 - scrapers.gutridesafier_scraper - INFO - Scraping target: https://www.gutridesafier.com/news
+2026-03-18 04:14:32 - scrapers.base_scraper - INFO - Fetching https://www.gutridesafier.com/news (attempt 1/3)
+2026-03-18 04:14:33 - scrapers.gutridesafier_scraper - INFO - Found 61 URLs from https://www.gutridesafier.com/news
+2026-03-18 04:14:33 - scrapers.gutridesafier_scraper - INFO - Total unique URLs found: 67
+2026-03-18 04:14:33 - scrapers.gutridesafier_scraper - INFO - After date filtering: 12 URLs
+2026-03-18 04:14:33 - utils.storage - INFO - Data saved to gutridesafier_urls.json
+2026-03-18 04:14:33 - utils.storage - INFO - Added 0 new entries to gutridesafier_urls.json
+2026-03-18 04:14:33 - scrapers.base_scraper - INFO - Scraping completed for Gutride Safier Investigations
+2026-03-18 04:14:33 - __main__ - INFO - Completed gutridesafier:
+2026-03-18 04:14:33 - __main__ - INFO -   - Status: success
+2026-03-18 04:14:33 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:33 - __main__ - INFO -   - Total URLs: 12
+2026-03-18 04:14:33 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:33 - __main__ - INFO - Processing: findclassaction
+2026-03-18 04:14:33 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:33 - scrapers.base_scraper - INFO - Starting scraper for Find Class Action (Jotform)
+2026-03-18 04:14:33 - scrapers.base_scraper - INFO - Source URL: https://findclassaction.jotform.com/
+2026-03-18 04:14:33 - scrapers.base_scraper - INFO - Fetching https://findclassaction.jotform.com/ (attempt 1/3)
+2026-03-18 04:14:35 - scrapers.findclassaction_scraper - INFO - Found 0 URLs from jotform.com
+2026-03-18 04:14:35 - scrapers.base_scraper - INFO - Fetching https://www.classaction.org/ (attempt 1/3)
+2026-03-18 04:14:38 - scrapers.findclassaction_scraper - INFO - Found 80 URLs from classaction.org
+2026-03-18 04:14:38 - scrapers.findclassaction_scraper - INFO - After date filtering (combined): 80 URLs
+2026-03-18 04:14:38 - utils.storage - INFO - Data saved to findclassaction_urls.json
+2026-03-18 04:14:38 - utils.storage - INFO - Added 13 new entries to findclassaction_urls.json
+2026-03-18 04:14:38 - scrapers.base_scraper - INFO - Scraping completed for Find Class Action (Jotform)
+2026-03-18 04:14:38 - __main__ - INFO - Completed findclassaction:
+2026-03-18 04:14:38 - __main__ - INFO -   - Status: success
+2026-03-18 04:14:38 - __main__ - INFO -   - New URLs: 13
+2026-03-18 04:14:38 - __main__ - INFO -   - Total URLs: 352
+2026-03-18 04:14:38 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:38 - __main__ - INFO - Processing: shamisgentile
+2026-03-18 04:14:38 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:38 - scrapers.base_scraper - INFO - Starting scraper for Shamis & Gentile
+2026-03-18 04:14:38 - scrapers.base_scraper - INFO - Source URL: https://shamisgentile.com/class-action-lawsuits/
+2026-03-18 04:14:38 - scrapers.base_scraper - INFO - Fetching https://shamisgentile.com/class-action-lawsuits/ (attempt 1/3)
+2026-03-18 04:14:39 - scrapers.shamisgentile_scraper - INFO - Found 59 URLs from shamisgentile.com
+2026-03-18 04:14:39 - scrapers.shamisgentile_scraper - INFO - After date filtering: 59 URLs
+2026-03-18 04:14:39 - utils.storage - INFO - Data saved to shamisgentile_urls.json
+2026-03-18 04:14:39 - utils.storage - INFO - Added 0 new entries to shamisgentile_urls.json
+2026-03-18 04:14:39 - scrapers.base_scraper - INFO - Scraping completed for Shamis & Gentile
+2026-03-18 04:14:39 - __main__ - INFO - Completed shamisgentile:
+2026-03-18 04:14:39 - __main__ - INFO -   - Status: success
+2026-03-18 04:14:39 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:39 - __main__ - INFO -   - Total URLs: 59
+2026-03-18 04:14:39 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:39 - __main__ - INFO - Processing: toppefirm
+2026-03-18 04:14:39 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:39 - scrapers.base_scraper - INFO - Starting scraper for Toppe Law Firm
+2026-03-18 04:14:39 - scrapers.base_scraper - INFO - Source URL: https://www.toppefirm.com/sitemap.xml
+2026-03-18 04:14:39 - scrapers.base_scraper - INFO - Fetching https://www.toppefirm.com/sitemap.xml (attempt 1/3)
+2026-03-18 04:14:41 - scrapers.toppefirm_scraper - INFO - Found 22 URLs from sitemap
+2026-03-18 04:14:41 - scrapers.toppefirm_scraper - INFO - After date filtering: 3 URLs
+2026-03-18 04:14:41 - utils.storage - INFO - Data saved to toppefirm_urls.json
+2026-03-18 04:14:41 - utils.storage - INFO - Added 0 new entries to toppefirm_urls.json
+2026-03-18 04:14:41 - scrapers.base_scraper - INFO - Scraping completed for Toppe Law Firm
+2026-03-18 04:14:41 - __main__ - INFO - Completed toppefirm:
+2026-03-18 04:14:41 - __main__ - INFO -   - Status: success
+2026-03-18 04:14:41 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:41 - __main__ - INFO -   - Total URLs: 3
+2026-03-18 04:14:41 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:41 - __main__ - INFO - Processing: consumersprotectionlaw
+2026-03-18 04:14:41 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:41 - scrapers.base_scraper - INFO - Starting scraper for Consumers Protection Law
+2026-03-18 04:14:41 - scrapers.base_scraper - INFO - Source URL: https://consumersprotectionlaw.com/
+2026-03-18 04:14:41 - scrapers.base_scraper - INFO - Fetching https://consumersprotectionlaw.com/ (attempt 1/3)
+2026-03-18 04:14:43 - scrapers.consumersprotectionlaw_scraper - INFO - Found 0 URLs from consumersprotectionlaw.com
+2026-03-18 04:14:43 - scrapers.consumersprotectionlaw_scraper - INFO - After date filtering: 0 URLs
+2026-03-18 04:14:43 - utils.storage - INFO - Data saved to consumersprotectionlaw_urls.json
+2026-03-18 04:14:43 - utils.storage - INFO - Added 0 new entries to consumersprotectionlaw_urls.json
+2026-03-18 04:14:43 - scrapers.base_scraper - INFO - Scraping completed for Consumers Protection Law
+2026-03-18 04:14:43 - __main__ - INFO - Completed consumersprotectionlaw:
+2026-03-18 04:14:43 - __main__ - INFO -   - Status: success
+2026-03-18 04:14:43 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:43 - __main__ - INFO -   - Total URLs: 0
+2026-03-18 04:14:43 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:43 - __main__ - INFO - Processing: consumerlegalaction
+2026-03-18 04:14:43 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:43 - scrapers.base_scraper - INFO - Starting scraper for Consumer Legal Action
+2026-03-18 04:14:43 - scrapers.base_scraper - INFO - Source URL: https://consumerlegalaction.com/
+2026-03-18 04:14:43 - scrapers.base_scraper - INFO - Fetching https://consumerlegalaction.com/ (attempt 1/3)
+2026-03-18 04:14:44 - scrapers.consumerlegalaction_scraper - INFO - Found 2 URLs from consumerlegalaction.com
+2026-03-18 04:14:44 - scrapers.consumerlegalaction_scraper - INFO - After date filtering: 2 URLs
+2026-03-18 04:14:44 - utils.storage - INFO - Data saved to consumerlegalaction_urls.json
+2026-03-18 04:14:44 - utils.storage - INFO - Added 0 new entries to consumerlegalaction_urls.json
+2026-03-18 04:14:44 - scrapers.base_scraper - INFO - Scraping completed for Consumer Legal Action
+2026-03-18 04:14:44 - __main__ - INFO - Completed consumerlegalaction:
+2026-03-18 04:14:44 - __main__ - INFO -   - Status: success
+2026-03-18 04:14:44 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:44 - __main__ - INFO -   - Total URLs: 2
+2026-03-18 04:14:44 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:44 - __main__ - INFO - Processing: crosnerlegal
+2026-03-18 04:14:44 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:44 - scrapers.base_scraper - INFO - Starting scraper for Crosner Legal
+2026-03-18 04:14:44 - scrapers.base_scraper - INFO - Source URL: https://crosnerlegal.com/sitemap_index.xml
+2026-03-18 04:14:44 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/sitemap_index.xml (attempt 1/3)
+2026-03-18 04:14:46 - scrapers.crosnerlegal_scraper - INFO - Found 4 sitemaps in the index
+2026-03-18 04:14:46 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/post-sitemap.xml (attempt 1/3)
+2026-03-18 04:14:48 - scrapers.crosnerlegal_scraper - INFO - Extracted 180 URLs from https://crosnerlegal.com/post-sitemap.xml
+2026-03-18 04:14:48 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/page-sitemap.xml (attempt 1/3)
+2026-03-18 04:14:50 - scrapers.crosnerlegal_scraper - INFO - Extracted 288 URLs from https://crosnerlegal.com/page-sitemap.xml
+2026-03-18 04:14:50 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/case-sitemap.xml (attempt 1/3)
+2026-03-18 04:14:53 - scrapers.crosnerlegal_scraper - INFO - Extracted 436 URLs from https://crosnerlegal.com/case-sitemap.xml
+2026-03-18 04:14:53 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/attorney-sitemap.xml (attempt 1/3)
+2026-03-18 04:14:55 - scrapers.crosnerlegal_scraper - INFO - Extracted 19 URLs from https://crosnerlegal.com/attorney-sitemap.xml
+2026-03-18 04:14:55 - scrapers.crosnerlegal_scraper - INFO - Found 923 total URLs from all sitemaps
+2026-03-18 04:14:55 - scrapers.crosnerlegal_scraper - INFO - After date filtering: 30 URLs
+2026-03-18 04:14:55 - utils.storage - INFO - Data saved to crosnerlegal_urls.json
+2026-03-18 04:14:55 - utils.storage - INFO - Added 0 new entries to crosnerlegal_urls.json
+2026-03-18 04:14:55 - scrapers.base_scraper - INFO - Scraping completed for Crosner Legal
+2026-03-18 04:14:55 - __main__ - INFO - Completed crosnerlegal:
+2026-03-18 04:14:55 - __main__ - INFO -   - Status: success
+2026-03-18 04:14:55 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:55 - __main__ - INFO -   - Total URLs: 30
+2026-03-18 04:14:55 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:55 - __main__ - INFO - Processing: edelson
+2026-03-18 04:14:55 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:55 - scrapers.base_scraper - INFO - Starting scraper for Edelson PC
+2026-03-18 04:14:55 - scrapers.base_scraper - INFO - Source URL: https://edelson.com/
+2026-03-18 04:14:55 - scrapers.base_scraper - INFO - Fetching https://edelson.com/ (attempt 1/3)
+2026-03-18 04:14:55 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://edelson.com/: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-18 04:14:56 - scrapers.base_scraper - INFO - Fetching https://edelson.com/ (attempt 2/3)
+2026-03-18 04:14:56 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://edelson.com/: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-18 04:14:58 - scrapers.base_scraper - INFO - Fetching https://edelson.com/ (attempt 3/3)
+2026-03-18 04:14:58 - scrapers.base_scraper - WARNING - Attempt 3 failed for https://edelson.com/: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-18 04:14:58 - scrapers.base_scraper - ERROR - All retries failed for https://edelson.com/
+2026-03-18 04:14:58 - scrapers.edelson_scraper - ERROR - Error during scraping: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-18 04:14:58 - scrapers.base_scraper - ERROR - Error scraping Edelson PC: 403 Client Error: Forbidden for url: https://edelson.com/
+Traceback (most recent call last):
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 442, in run
+    result = self.scrape()
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/edelson_scraper.py", line 22, in scrape
+    response = self.get_page(self.source_url)
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 90, in get_page
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/zvenv/lib/python3.14/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-18 04:14:58 - __main__ - INFO - Completed edelson:
+2026-03-18 04:14:58 - __main__ - INFO -   - Status: error
+2026-03-18 04:14:58 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:14:58 - __main__ - INFO -   - Total URLs: 0
+2026-03-18 04:14:58 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:14:58 - __main__ - INFO - Processing: stopconsumerharm
+2026-03-18 04:14:58 - __main__ - INFO - ================================================================================
+2026-03-18 04:14:58 - scrapers.base_scraper - INFO - Starting scraper for Stop Consumer Harm
+2026-03-18 04:14:58 - scrapers.base_scraper - INFO - Source URL: https://www.stopconsumerharm.com/sitemap.xml
+2026-03-18 04:14:58 - scrapers.base_scraper - INFO - Fetching https://www.stopconsumerharm.com/sitemap.xml (attempt 1/3)
+2026-03-18 04:15:00 - scrapers.stopconsumerharm_scraper - INFO - Found 294 URLs from sitemap
+2026-03-18 04:15:00 - scrapers.stopconsumerharm_scraper - INFO - After date filtering: 294 URLs
+2026-03-18 04:15:00 - utils.storage - INFO - Data saved to stopconsumerharm_urls.json
+2026-03-18 04:15:00 - utils.storage - INFO - Added 0 new entries to stopconsumerharm_urls.json
+2026-03-18 04:15:00 - scrapers.base_scraper - INFO - Scraping completed for Stop Consumer Harm
+2026-03-18 04:15:00 - __main__ - INFO - Completed stopconsumerharm:
+2026-03-18 04:15:00 - __main__ - INFO -   - Status: success
+2026-03-18 04:15:00 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:15:00 - __main__ - INFO -   - Total URLs: 296
+2026-03-18 04:15:00 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:15:00 - __main__ - INFO - Processing: eksm
+2026-03-18 04:15:00 - __main__ - INFO - ================================================================================
+2026-03-18 04:15:00 - scrapers.base_scraper - INFO - Starting scraper for EKSM Law
+2026-03-18 04:15:00 - scrapers.base_scraper - INFO - Source URL: https://eksm.com/
+2026-03-18 04:15:00 - scrapers.base_scraper - INFO - Fetching https://eksm.com/ (attempt 1/3)
+2026-03-18 04:15:02 - scrapers.eksm_scraper - INFO - Found 18 URLs from eksm.com
+2026-03-18 04:15:02 - scrapers.eksm_scraper - INFO - After date filtering: 18 URLs
+2026-03-18 04:15:02 - utils.storage - INFO - Data saved to eksm_urls.json
+2026-03-18 04:15:02 - utils.storage - INFO - Added 0 new entries to eksm_urls.json
+2026-03-18 04:15:02 - scrapers.base_scraper - INFO - Scraping completed for EKSM Law
+2026-03-18 04:15:02 - __main__ - INFO - Completed eksm:
+2026-03-18 04:15:02 - __main__ - INFO -   - Status: success
+2026-03-18 04:15:02 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:15:02 - __main__ - INFO -   - Total URLs: 64
+2026-03-18 04:15:02 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:15:02 - __main__ - INFO - Processing: fmfpc
+2026-03-18 04:15:02 - __main__ - INFO - ================================================================================
+2026-03-18 04:15:02 - scrapers.base_scraper - INFO - Starting scraper for FMFPC
+2026-03-18 04:15:02 - scrapers.base_scraper - INFO - Source URL: https://www.fmfpc.com/
+2026-03-18 04:15:02 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/pages-sitemap.xml
+2026-03-18 04:15:02 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/pages-sitemap.xml (attempt 1/3)
+2026-03-18 04:15:04 - scrapers.fmfpc_scraper - INFO - Found 36 URLs from https://www.fmfpc.com/pages-sitemap.xml
+2026-03-18 04:15:04 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/store-products-sitemap.xml
+2026-03-18 04:15:04 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/store-products-sitemap.xml (attempt 1/3)
+2026-03-18 04:15:06 - scrapers.fmfpc_scraper - INFO - Found 9 URLs from https://www.fmfpc.com/store-products-sitemap.xml
+2026-03-18 04:15:06 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/store-categories-sitemap.xml
+2026-03-18 04:15:06 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/store-categories-sitemap.xml (attempt 1/3)
+2026-03-18 04:15:07 - scrapers.fmfpc_scraper - INFO - Found 7 URLs from https://www.fmfpc.com/store-categories-sitemap.xml
+2026-03-18 04:15:07 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/results
+2026-03-18 04:15:07 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/results (attempt 1/3)
+2026-03-18 04:15:10 - scrapers.fmfpc_scraper - INFO - Found 29 URLs from https://www.fmfpc.com/results
+2026-03-18 04:15:10 - scrapers.fmfpc_scraper - INFO - Total unique URLs found: 68
+2026-03-18 04:15:10 - scrapers.fmfpc_scraper - INFO - After date filtering: 52 URLs
+2026-03-18 04:15:10 - utils.storage - INFO - Data saved to fmfpc_urls.json
+2026-03-18 04:15:10 - utils.storage - INFO - Added 0 new entries to fmfpc_urls.json
+2026-03-18 04:15:10 - scrapers.base_scraper - INFO - Scraping completed for FMFPC
+2026-03-18 04:15:10 - __main__ - INFO - Completed fmfpc:
+2026-03-18 04:15:10 - __main__ - INFO -   - Status: success
+2026-03-18 04:15:10 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:15:10 - __main__ - INFO -   - Total URLs: 52
+2026-03-18 04:15:10 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:15:10 - __main__ - INFO - Processing: lanternlabaton
+2026-03-18 04:15:10 - __main__ - INFO - ================================================================================
+2026-03-18 04:15:10 - scrapers.base_scraper - INFO - Starting scraper for Lantern by Labaton
+2026-03-18 04:15:10 - scrapers.base_scraper - INFO - Source URL: https://lantern.labaton.com/
+2026-03-18 04:15:10 - scrapers.lanternlabaton_scraper - INFO - Scraping target: https://lantern.labaton.com/news-and-insights
+2026-03-18 04:15:10 - scrapers.lanternlabaton_scraper - INFO - Fetching page 1: https://lantern.labaton.com/news-and-insights?page=1
+2026-03-18 04:15:10 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/news-and-insights?page=1 (attempt 1/3)
+2026-03-18 04:15:11 - scrapers.lanternlabaton_scraper - INFO - Page 1: found 20 new URLs
+2026-03-18 04:15:11 - scrapers.lanternlabaton_scraper - INFO - Fetching page 2: https://lantern.labaton.com/news-and-insights?page=2
+2026-03-18 04:15:11 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/news-and-insights?page=2 (attempt 1/3)
+2026-03-18 04:15:12 - scrapers.lanternlabaton_scraper - INFO - No new URLs found on page 2, stopping pagination
+2026-03-18 04:15:12 - scrapers.lanternlabaton_scraper - INFO - Found 20 URLs from https://lantern.labaton.com/news-and-insights
+2026-03-18 04:15:12 - scrapers.lanternlabaton_scraper - INFO - Scraping target: https://lantern.labaton.com/explore-cases
+2026-03-18 04:15:12 - scrapers.lanternlabaton_scraper - INFO - Fetching page 1: https://lantern.labaton.com/explore-cases?page=1
+2026-03-18 04:15:12 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/explore-cases?page=1 (attempt 1/3)
+2026-03-18 04:15:14 - scrapers.lanternlabaton_scraper - INFO - Page 1: found 9 new URLs
+2026-03-18 04:15:14 - scrapers.lanternlabaton_scraper - INFO - Fetching page 2: https://lantern.labaton.com/explore-cases?page=2
+2026-03-18 04:15:14 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/explore-cases?page=2 (attempt 1/3)
+2026-03-18 04:15:15 - scrapers.lanternlabaton_scraper - INFO - No new URLs found on page 2, stopping pagination
+2026-03-18 04:15:15 - scrapers.lanternlabaton_scraper - INFO - Found 9 URLs from https://lantern.labaton.com/explore-cases
+2026-03-18 04:15:15 - scrapers.lanternlabaton_scraper - INFO - Total unique URLs found: 21
+2026-03-18 04:15:15 - scrapers.lanternlabaton_scraper - INFO - After date filtering: 14 URLs
+2026-03-18 04:15:15 - utils.storage - INFO - Data saved to lanternlabaton_urls.json
+2026-03-18 04:15:15 - utils.storage - INFO - Added 0 new entries to lanternlabaton_urls.json
+2026-03-18 04:15:15 - scrapers.base_scraper - INFO - Scraping completed for Lantern by Labaton
+2026-03-18 04:15:15 - __main__ - INFO - Completed lanternlabaton:
+2026-03-18 04:15:15 - __main__ - INFO -   - Status: success
+2026-03-18 04:15:15 - __main__ - INFO -   - New URLs: 0
+2026-03-18 04:15:15 - __main__ - INFO -   - Total URLs: 14
+2026-03-18 04:15:15 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:15:15 - __main__ - INFO - SCRAPING SUMMARY
+2026-03-18 04:15:15 - __main__ - INFO - ================================================================================
+2026-03-18 04:15:15 - __main__ - INFO - Total Sources: 13
+2026-03-18 04:15:15 - __main__ - INFO - Successful: 11
+2026-03-18 04:15:15 - __main__ - INFO - Failed: 2
+2026-03-18 04:15:15 - __main__ - INFO - Total New URLs: 13
+2026-03-18 04:15:15 - __main__ - INFO - Total URLs in Database: 884
+2026-03-18 04:15:15 - __main__ - INFO - ================================================================================
+2026-03-18 04:15:15 - __main__ - INFO - 
+Sending email report...
+2026-03-18 04:15:15 - utils.email_sender - INFO - Connecting to SMTP server: smtp.gmail.com:587
+2026-03-18 04:15:25 - utils.email_sender - INFO - Email sent successfully to 2 recipients:
+2026-03-18 04:15:25 - utils.email_sender - INFO -   - teammarketinglnk@gmail.com
+2026-03-18 04:15:25 - utils.email_sender - INFO -   - sgarad@zlk.com
+2026-03-18 04:15:25 - __main__ - INFO - Email sent successfully!
+2026-03-18 04:15:25 - __main__ - INFO - 
+================================================================================
+2026-03-18 04:15:25 - __main__ - INFO - Scraping completed successfully!
+2026-03-18 04:15:25 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:22 - utils.storage - INFO - No existing file found: classactionlegalhelp_urls.json. Creating new.
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 12 existing entries from gutridesafier_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 352 existing entries from findclassaction_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 59 existing entries from shamisgentile_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 3 existing entries from toppefirm_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 0 existing entries from consumersprotectionlaw_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 2 existing entries from consumerlegalaction_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 30 existing entries from crosnerlegal_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - No existing file found: edelson_urls.json. Creating new.
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 296 existing entries from stopconsumerharm_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 64 existing entries from eksm_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 52 existing entries from fmfpc_urls.json
+2026-03-19 04:16:22 - utils.storage - INFO - Loaded 14 existing entries from lanternlabaton_urls.json
+2026-03-19 04:16:22 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:22 - __main__ - INFO - Starting Class Action Scraper
+2026-03-19 04:16:22 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:22 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:22 - __main__ - INFO - Processing: classactionlegalhelp
+2026-03-19 04:16:22 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:22 - scrapers.base_scraper - INFO - Starting scraper for Class Action Legal Help
+2026-03-19 04:16:22 - scrapers.base_scraper - INFO - Source URL: https://www.classactionlegalhelp.co/
+2026-03-19 04:16:22 - scrapers.base_scraper - INFO - Fetching https://www.classactionlegalhelp.co/ (attempt 1/3)
+2026-03-19 04:16:23 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://www.classactionlegalhelp.co/: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-19 04:16:24 - scrapers.base_scraper - INFO - Fetching https://www.classactionlegalhelp.co/ (attempt 2/3)
+2026-03-19 04:16:25 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://www.classactionlegalhelp.co/: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-19 04:16:27 - scrapers.base_scraper - INFO - Fetching https://www.classactionlegalhelp.co/ (attempt 3/3)
+2026-03-19 04:16:27 - scrapers.base_scraper - WARNING - Attempt 3 failed for https://www.classactionlegalhelp.co/: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-19 04:16:27 - scrapers.base_scraper - ERROR - All retries failed for https://www.classactionlegalhelp.co/
+2026-03-19 04:16:27 - scrapers.classactionlegalhelp_scraper - ERROR - Error during scraping: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-19 04:16:27 - scrapers.base_scraper - ERROR - Error scraping Class Action Legal Help: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+Traceback (most recent call last):
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 442, in run
+    result = self.scrape()
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/classactionlegalhelp_scraper.py", line 22, in scrape
+    response = self.get_page(self.source_url)
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 90, in get_page
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/zvenv/lib/python3.14/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://www.classactionlegalhelp.co/
+2026-03-19 04:16:27 - __main__ - INFO - Completed classactionlegalhelp:
+2026-03-19 04:16:27 - __main__ - INFO -   - Status: error
+2026-03-19 04:16:27 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:27 - __main__ - INFO -   - Total URLs: 0
+2026-03-19 04:16:27 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:27 - __main__ - INFO - Processing: gutridesafier
+2026-03-19 04:16:27 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:27 - scrapers.base_scraper - INFO - Starting scraper for Gutride Safier Investigations
+2026-03-19 04:16:27 - scrapers.base_scraper - INFO - Source URL: https://www.gutridesafier.com/
+2026-03-19 04:16:27 - scrapers.gutridesafier_scraper - INFO - Scraping target: https://www.gutridesafier.com/our-work
+2026-03-19 04:16:27 - scrapers.base_scraper - INFO - Fetching https://www.gutridesafier.com/our-work (attempt 1/3)
+2026-03-19 04:16:29 - scrapers.gutridesafier_scraper - INFO - Found 12 URLs from https://www.gutridesafier.com/our-work
+2026-03-19 04:16:29 - scrapers.gutridesafier_scraper - INFO - Scraping target: https://www.gutridesafier.com/news
+2026-03-19 04:16:29 - scrapers.base_scraper - INFO - Fetching https://www.gutridesafier.com/news (attempt 1/3)
+2026-03-19 04:16:31 - scrapers.gutridesafier_scraper - INFO - Found 61 URLs from https://www.gutridesafier.com/news
+2026-03-19 04:16:31 - scrapers.gutridesafier_scraper - INFO - Total unique URLs found: 67
+2026-03-19 04:16:31 - scrapers.gutridesafier_scraper - INFO - After date filtering: 12 URLs
+2026-03-19 04:16:31 - utils.storage - INFO - Data saved to gutridesafier_urls.json
+2026-03-19 04:16:31 - utils.storage - INFO - Added 0 new entries to gutridesafier_urls.json
+2026-03-19 04:16:31 - scrapers.base_scraper - INFO - Scraping completed for Gutride Safier Investigations
+2026-03-19 04:16:31 - __main__ - INFO - Completed gutridesafier:
+2026-03-19 04:16:31 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:31 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:31 - __main__ - INFO -   - Total URLs: 12
+2026-03-19 04:16:31 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:31 - __main__ - INFO - Processing: findclassaction
+2026-03-19 04:16:31 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:31 - scrapers.base_scraper - INFO - Starting scraper for Find Class Action (Jotform)
+2026-03-19 04:16:31 - scrapers.base_scraper - INFO - Source URL: https://findclassaction.jotform.com/
+2026-03-19 04:16:31 - scrapers.base_scraper - INFO - Fetching https://findclassaction.jotform.com/ (attempt 1/3)
+2026-03-19 04:16:34 - scrapers.findclassaction_scraper - INFO - Found 0 URLs from jotform.com
+2026-03-19 04:16:34 - scrapers.base_scraper - INFO - Fetching https://www.classaction.org/ (attempt 1/3)
+2026-03-19 04:16:36 - scrapers.findclassaction_scraper - INFO - Found 80 URLs from classaction.org
+2026-03-19 04:16:36 - scrapers.findclassaction_scraper - INFO - After date filtering (combined): 80 URLs
+2026-03-19 04:16:36 - utils.storage - INFO - Data saved to findclassaction_urls.json
+2026-03-19 04:16:36 - utils.storage - INFO - Added 1 new entries to findclassaction_urls.json
+2026-03-19 04:16:36 - scrapers.base_scraper - INFO - Scraping completed for Find Class Action (Jotform)
+2026-03-19 04:16:36 - __main__ - INFO - Completed findclassaction:
+2026-03-19 04:16:36 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:36 - __main__ - INFO -   - New URLs: 1
+2026-03-19 04:16:36 - __main__ - INFO -   - Total URLs: 353
+2026-03-19 04:16:36 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:36 - __main__ - INFO - Processing: shamisgentile
+2026-03-19 04:16:36 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:36 - scrapers.base_scraper - INFO - Starting scraper for Shamis & Gentile
+2026-03-19 04:16:36 - scrapers.base_scraper - INFO - Source URL: https://shamisgentile.com/class-action-lawsuits/
+2026-03-19 04:16:36 - scrapers.base_scraper - INFO - Fetching https://shamisgentile.com/class-action-lawsuits/ (attempt 1/3)
+2026-03-19 04:16:38 - scrapers.shamisgentile_scraper - INFO - Found 59 URLs from shamisgentile.com
+2026-03-19 04:16:38 - scrapers.shamisgentile_scraper - INFO - After date filtering: 59 URLs
+2026-03-19 04:16:38 - utils.storage - INFO - Data saved to shamisgentile_urls.json
+2026-03-19 04:16:38 - utils.storage - INFO - Added 0 new entries to shamisgentile_urls.json
+2026-03-19 04:16:38 - scrapers.base_scraper - INFO - Scraping completed for Shamis & Gentile
+2026-03-19 04:16:38 - __main__ - INFO - Completed shamisgentile:
+2026-03-19 04:16:38 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:38 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:38 - __main__ - INFO -   - Total URLs: 59
+2026-03-19 04:16:38 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:38 - __main__ - INFO - Processing: toppefirm
+2026-03-19 04:16:38 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:38 - scrapers.base_scraper - INFO - Starting scraper for Toppe Law Firm
+2026-03-19 04:16:38 - scrapers.base_scraper - INFO - Source URL: https://www.toppefirm.com/sitemap.xml
+2026-03-19 04:16:38 - scrapers.base_scraper - INFO - Fetching https://www.toppefirm.com/sitemap.xml (attempt 1/3)
+2026-03-19 04:16:39 - scrapers.toppefirm_scraper - INFO - Found 22 URLs from sitemap
+2026-03-19 04:16:39 - scrapers.toppefirm_scraper - INFO - After date filtering: 3 URLs
+2026-03-19 04:16:39 - utils.storage - INFO - Data saved to toppefirm_urls.json
+2026-03-19 04:16:39 - utils.storage - INFO - Added 0 new entries to toppefirm_urls.json
+2026-03-19 04:16:39 - scrapers.base_scraper - INFO - Scraping completed for Toppe Law Firm
+2026-03-19 04:16:39 - __main__ - INFO - Completed toppefirm:
+2026-03-19 04:16:39 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:39 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:39 - __main__ - INFO -   - Total URLs: 3
+2026-03-19 04:16:39 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:39 - __main__ - INFO - Processing: consumersprotectionlaw
+2026-03-19 04:16:39 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:39 - scrapers.base_scraper - INFO - Starting scraper for Consumers Protection Law
+2026-03-19 04:16:39 - scrapers.base_scraper - INFO - Source URL: https://consumersprotectionlaw.com/
+2026-03-19 04:16:39 - scrapers.base_scraper - INFO - Fetching https://consumersprotectionlaw.com/ (attempt 1/3)
+2026-03-19 04:16:42 - scrapers.consumersprotectionlaw_scraper - INFO - Found 0 URLs from consumersprotectionlaw.com
+2026-03-19 04:16:42 - scrapers.consumersprotectionlaw_scraper - INFO - After date filtering: 0 URLs
+2026-03-19 04:16:42 - utils.storage - INFO - Data saved to consumersprotectionlaw_urls.json
+2026-03-19 04:16:42 - utils.storage - INFO - Added 0 new entries to consumersprotectionlaw_urls.json
+2026-03-19 04:16:42 - scrapers.base_scraper - INFO - Scraping completed for Consumers Protection Law
+2026-03-19 04:16:42 - __main__ - INFO - Completed consumersprotectionlaw:
+2026-03-19 04:16:42 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:42 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:42 - __main__ - INFO -   - Total URLs: 0
+2026-03-19 04:16:42 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:42 - __main__ - INFO - Processing: consumerlegalaction
+2026-03-19 04:16:42 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:42 - scrapers.base_scraper - INFO - Starting scraper for Consumer Legal Action
+2026-03-19 04:16:42 - scrapers.base_scraper - INFO - Source URL: https://consumerlegalaction.com/
+2026-03-19 04:16:42 - scrapers.base_scraper - INFO - Fetching https://consumerlegalaction.com/ (attempt 1/3)
+2026-03-19 04:16:43 - scrapers.consumerlegalaction_scraper - INFO - Found 2 URLs from consumerlegalaction.com
+2026-03-19 04:16:43 - scrapers.consumerlegalaction_scraper - INFO - After date filtering: 2 URLs
+2026-03-19 04:16:43 - utils.storage - INFO - Data saved to consumerlegalaction_urls.json
+2026-03-19 04:16:43 - utils.storage - INFO - Added 0 new entries to consumerlegalaction_urls.json
+2026-03-19 04:16:43 - scrapers.base_scraper - INFO - Scraping completed for Consumer Legal Action
+2026-03-19 04:16:43 - __main__ - INFO - Completed consumerlegalaction:
+2026-03-19 04:16:43 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:43 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:43 - __main__ - INFO -   - Total URLs: 2
+2026-03-19 04:16:43 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:43 - __main__ - INFO - Processing: crosnerlegal
+2026-03-19 04:16:43 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:43 - scrapers.base_scraper - INFO - Starting scraper for Crosner Legal
+2026-03-19 04:16:43 - scrapers.base_scraper - INFO - Source URL: https://crosnerlegal.com/sitemap_index.xml
+2026-03-19 04:16:43 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/sitemap_index.xml (attempt 1/3)
+2026-03-19 04:16:46 - scrapers.crosnerlegal_scraper - INFO - Found 4 sitemaps in the index
+2026-03-19 04:16:46 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/post-sitemap.xml (attempt 1/3)
+2026-03-19 04:16:47 - scrapers.crosnerlegal_scraper - INFO - Extracted 180 URLs from https://crosnerlegal.com/post-sitemap.xml
+2026-03-19 04:16:47 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/page-sitemap.xml (attempt 1/3)
+2026-03-19 04:16:49 - scrapers.crosnerlegal_scraper - INFO - Extracted 288 URLs from https://crosnerlegal.com/page-sitemap.xml
+2026-03-19 04:16:49 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/case-sitemap.xml (attempt 1/3)
+2026-03-19 04:16:52 - scrapers.crosnerlegal_scraper - INFO - Extracted 436 URLs from https://crosnerlegal.com/case-sitemap.xml
+2026-03-19 04:16:52 - scrapers.base_scraper - INFO - Fetching https://crosnerlegal.com/attorney-sitemap.xml (attempt 1/3)
+2026-03-19 04:16:54 - scrapers.crosnerlegal_scraper - INFO - Extracted 19 URLs from https://crosnerlegal.com/attorney-sitemap.xml
+2026-03-19 04:16:54 - scrapers.crosnerlegal_scraper - INFO - Found 923 total URLs from all sitemaps
+2026-03-19 04:16:54 - scrapers.crosnerlegal_scraper - INFO - After date filtering: 30 URLs
+2026-03-19 04:16:54 - utils.storage - INFO - Data saved to crosnerlegal_urls.json
+2026-03-19 04:16:54 - utils.storage - INFO - Added 0 new entries to crosnerlegal_urls.json
+2026-03-19 04:16:54 - scrapers.base_scraper - INFO - Scraping completed for Crosner Legal
+2026-03-19 04:16:54 - __main__ - INFO - Completed crosnerlegal:
+2026-03-19 04:16:54 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:54 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:54 - __main__ - INFO -   - Total URLs: 30
+2026-03-19 04:16:54 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:54 - __main__ - INFO - Processing: edelson
+2026-03-19 04:16:54 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:54 - scrapers.base_scraper - INFO - Starting scraper for Edelson PC
+2026-03-19 04:16:54 - scrapers.base_scraper - INFO - Source URL: https://edelson.com/
+2026-03-19 04:16:54 - scrapers.base_scraper - INFO - Fetching https://edelson.com/ (attempt 1/3)
+2026-03-19 04:16:54 - scrapers.base_scraper - WARNING - Attempt 1 failed for https://edelson.com/: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-19 04:16:55 - scrapers.base_scraper - INFO - Fetching https://edelson.com/ (attempt 2/3)
+2026-03-19 04:16:55 - scrapers.base_scraper - WARNING - Attempt 2 failed for https://edelson.com/: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-19 04:16:57 - scrapers.base_scraper - INFO - Fetching https://edelson.com/ (attempt 3/3)
+2026-03-19 04:16:57 - scrapers.base_scraper - WARNING - Attempt 3 failed for https://edelson.com/: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-19 04:16:57 - scrapers.base_scraper - ERROR - All retries failed for https://edelson.com/
+2026-03-19 04:16:57 - scrapers.edelson_scraper - ERROR - Error during scraping: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-19 04:16:57 - scrapers.base_scraper - ERROR - Error scraping Edelson PC: 403 Client Error: Forbidden for url: https://edelson.com/
+Traceback (most recent call last):
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 442, in run
+    result = self.scrape()
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/edelson_scraper.py", line 22, in scrape
+    response = self.get_page(self.source_url)
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/scrapers/base_scraper.py", line 90, in get_page
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/sharayu/CodeLab/GitHub/Mass-Arb-Web-Scraping/zvenv/lib/python3.14/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://edelson.com/
+2026-03-19 04:16:57 - __main__ - INFO - Completed edelson:
+2026-03-19 04:16:57 - __main__ - INFO -   - Status: error
+2026-03-19 04:16:57 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:57 - __main__ - INFO -   - Total URLs: 0
+2026-03-19 04:16:57 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:57 - __main__ - INFO - Processing: stopconsumerharm
+2026-03-19 04:16:57 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:57 - scrapers.base_scraper - INFO - Starting scraper for Stop Consumer Harm
+2026-03-19 04:16:57 - scrapers.base_scraper - INFO - Source URL: https://www.stopconsumerharm.com/sitemap.xml
+2026-03-19 04:16:57 - scrapers.base_scraper - INFO - Fetching https://www.stopconsumerharm.com/sitemap.xml (attempt 1/3)
+2026-03-19 04:16:59 - scrapers.stopconsumerharm_scraper - INFO - Found 294 URLs from sitemap
+2026-03-19 04:16:59 - scrapers.stopconsumerharm_scraper - INFO - After date filtering: 294 URLs
+2026-03-19 04:16:59 - utils.storage - INFO - Data saved to stopconsumerharm_urls.json
+2026-03-19 04:16:59 - utils.storage - INFO - Added 0 new entries to stopconsumerharm_urls.json
+2026-03-19 04:16:59 - scrapers.base_scraper - INFO - Scraping completed for Stop Consumer Harm
+2026-03-19 04:16:59 - __main__ - INFO - Completed stopconsumerharm:
+2026-03-19 04:16:59 - __main__ - INFO -   - Status: success
+2026-03-19 04:16:59 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:16:59 - __main__ - INFO -   - Total URLs: 296
+2026-03-19 04:16:59 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:16:59 - __main__ - INFO - Processing: eksm
+2026-03-19 04:16:59 - __main__ - INFO - ================================================================================
+2026-03-19 04:16:59 - scrapers.base_scraper - INFO - Starting scraper for EKSM Law
+2026-03-19 04:16:59 - scrapers.base_scraper - INFO - Source URL: https://eksm.com/
+2026-03-19 04:16:59 - scrapers.base_scraper - INFO - Fetching https://eksm.com/ (attempt 1/3)
+2026-03-19 04:17:02 - scrapers.eksm_scraper - INFO - Found 18 URLs from eksm.com
+2026-03-19 04:17:02 - scrapers.eksm_scraper - INFO - After date filtering: 18 URLs
+2026-03-19 04:17:02 - utils.storage - INFO - Data saved to eksm_urls.json
+2026-03-19 04:17:02 - utils.storage - INFO - Added 0 new entries to eksm_urls.json
+2026-03-19 04:17:02 - scrapers.base_scraper - INFO - Scraping completed for EKSM Law
+2026-03-19 04:17:02 - __main__ - INFO - Completed eksm:
+2026-03-19 04:17:02 - __main__ - INFO -   - Status: success
+2026-03-19 04:17:02 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:17:02 - __main__ - INFO -   - Total URLs: 64
+2026-03-19 04:17:02 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:17:02 - __main__ - INFO - Processing: fmfpc
+2026-03-19 04:17:02 - __main__ - INFO - ================================================================================
+2026-03-19 04:17:02 - scrapers.base_scraper - INFO - Starting scraper for FMFPC
+2026-03-19 04:17:02 - scrapers.base_scraper - INFO - Source URL: https://www.fmfpc.com/
+2026-03-19 04:17:02 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/pages-sitemap.xml
+2026-03-19 04:17:02 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/pages-sitemap.xml (attempt 1/3)
+2026-03-19 04:17:03 - scrapers.fmfpc_scraper - INFO - Found 36 URLs from https://www.fmfpc.com/pages-sitemap.xml
+2026-03-19 04:17:03 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/store-products-sitemap.xml
+2026-03-19 04:17:03 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/store-products-sitemap.xml (attempt 1/3)
+2026-03-19 04:17:04 - scrapers.fmfpc_scraper - INFO - Found 9 URLs from https://www.fmfpc.com/store-products-sitemap.xml
+2026-03-19 04:17:04 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/store-categories-sitemap.xml
+2026-03-19 04:17:04 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/store-categories-sitemap.xml (attempt 1/3)
+2026-03-19 04:17:05 - scrapers.fmfpc_scraper - INFO - Found 7 URLs from https://www.fmfpc.com/store-categories-sitemap.xml
+2026-03-19 04:17:05 - scrapers.fmfpc_scraper - INFO - Scraping target: https://www.fmfpc.com/results
+2026-03-19 04:17:05 - scrapers.base_scraper - INFO - Fetching https://www.fmfpc.com/results (attempt 1/3)
+2026-03-19 04:17:06 - scrapers.fmfpc_scraper - INFO - Found 29 URLs from https://www.fmfpc.com/results
+2026-03-19 04:17:06 - scrapers.fmfpc_scraper - INFO - Total unique URLs found: 68
+2026-03-19 04:17:06 - scrapers.fmfpc_scraper - INFO - After date filtering: 52 URLs
+2026-03-19 04:17:06 - utils.storage - INFO - Data saved to fmfpc_urls.json
+2026-03-19 04:17:06 - utils.storage - INFO - Added 0 new entries to fmfpc_urls.json
+2026-03-19 04:17:06 - scrapers.base_scraper - INFO - Scraping completed for FMFPC
+2026-03-19 04:17:06 - __main__ - INFO - Completed fmfpc:
+2026-03-19 04:17:06 - __main__ - INFO -   - Status: success
+2026-03-19 04:17:06 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:17:06 - __main__ - INFO -   - Total URLs: 52
+2026-03-19 04:17:06 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:17:06 - __main__ - INFO - Processing: lanternlabaton
+2026-03-19 04:17:06 - __main__ - INFO - ================================================================================
+2026-03-19 04:17:06 - scrapers.base_scraper - INFO - Starting scraper for Lantern by Labaton
+2026-03-19 04:17:06 - scrapers.base_scraper - INFO - Source URL: https://lantern.labaton.com/
+2026-03-19 04:17:06 - scrapers.lanternlabaton_scraper - INFO - Scraping target: https://lantern.labaton.com/news-and-insights
+2026-03-19 04:17:06 - scrapers.lanternlabaton_scraper - INFO - Fetching page 1: https://lantern.labaton.com/news-and-insights?page=1
+2026-03-19 04:17:06 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/news-and-insights?page=1 (attempt 1/3)
+2026-03-19 04:17:10 - scrapers.lanternlabaton_scraper - INFO - Page 1: found 20 new URLs
+2026-03-19 04:17:10 - scrapers.lanternlabaton_scraper - INFO - Fetching page 2: https://lantern.labaton.com/news-and-insights?page=2
+2026-03-19 04:17:10 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/news-and-insights?page=2 (attempt 1/3)
+2026-03-19 04:17:11 - scrapers.lanternlabaton_scraper - INFO - No new URLs found on page 2, stopping pagination
+2026-03-19 04:17:11 - scrapers.lanternlabaton_scraper - INFO - Found 20 URLs from https://lantern.labaton.com/news-and-insights
+2026-03-19 04:17:11 - scrapers.lanternlabaton_scraper - INFO - Scraping target: https://lantern.labaton.com/explore-cases
+2026-03-19 04:17:11 - scrapers.lanternlabaton_scraper - INFO - Fetching page 1: https://lantern.labaton.com/explore-cases?page=1
+2026-03-19 04:17:11 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/explore-cases?page=1 (attempt 1/3)
+2026-03-19 04:17:12 - scrapers.lanternlabaton_scraper - INFO - Page 1: found 9 new URLs
+2026-03-19 04:17:12 - scrapers.lanternlabaton_scraper - INFO - Fetching page 2: https://lantern.labaton.com/explore-cases?page=2
+2026-03-19 04:17:12 - scrapers.base_scraper - INFO - Fetching https://lantern.labaton.com/explore-cases?page=2 (attempt 1/3)
+2026-03-19 04:17:14 - scrapers.lanternlabaton_scraper - INFO - No new URLs found on page 2, stopping pagination
+2026-03-19 04:17:14 - scrapers.lanternlabaton_scraper - INFO - Found 9 URLs from https://lantern.labaton.com/explore-cases
+2026-03-19 04:17:14 - scrapers.lanternlabaton_scraper - INFO - Total unique URLs found: 21
+2026-03-19 04:17:14 - scrapers.lanternlabaton_scraper - INFO - After date filtering: 14 URLs
+2026-03-19 04:17:14 - utils.storage - INFO - Data saved to lanternlabaton_urls.json
+2026-03-19 04:17:14 - utils.storage - INFO - Added 0 new entries to lanternlabaton_urls.json
+2026-03-19 04:17:14 - scrapers.base_scraper - INFO - Scraping completed for Lantern by Labaton
+2026-03-19 04:17:14 - __main__ - INFO - Completed lanternlabaton:
+2026-03-19 04:17:14 - __main__ - INFO -   - Status: success
+2026-03-19 04:17:14 - __main__ - INFO -   - New URLs: 0
+2026-03-19 04:17:14 - __main__ - INFO -   - Total URLs: 14
+2026-03-19 04:17:14 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:17:14 - __main__ - INFO - SCRAPING SUMMARY
+2026-03-19 04:17:14 - __main__ - INFO - ================================================================================
+2026-03-19 04:17:14 - __main__ - INFO - Total Sources: 13
+2026-03-19 04:17:14 - __main__ - INFO - Successful: 11
+2026-03-19 04:17:14 - __main__ - INFO - Failed: 2
+2026-03-19 04:17:14 - __main__ - INFO - Total New URLs: 1
+2026-03-19 04:17:14 - __main__ - INFO - Total URLs in Database: 885
+2026-03-19 04:17:14 - __main__ - INFO - ================================================================================
+2026-03-19 04:17:14 - __main__ - INFO - 
+Sending email report...
+2026-03-19 04:17:14 - utils.email_sender - INFO - Connecting to SMTP server: smtp.gmail.com:587
+2026-03-19 04:17:23 - utils.email_sender - INFO - Email sent successfully to 2 recipients:
+2026-03-19 04:17:23 - utils.email_sender - INFO -   - teammarketinglnk@gmail.com
+2026-03-19 04:17:23 - utils.email_sender - INFO -   - sgarad@zlk.com
+2026-03-19 04:17:23 - __main__ - INFO - Email sent successfully!
+2026-03-19 04:17:23 - __main__ - INFO - 
+================================================================================
+2026-03-19 04:17:23 - __main__ - INFO - Scraping completed successfully!
+2026-03-19 04:17:23 - __main__ - INFO - ================================================================================
