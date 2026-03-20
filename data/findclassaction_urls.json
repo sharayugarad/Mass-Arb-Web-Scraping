@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-19T04:16:36.405957",
-  "total_entries": 353,
+  "last_updated": "2026-03-20T07:23:54.724834",
+  "total_entries": 360,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -1768,6 +1768,41 @@
       "url": "https://www.classaction.org/data-breach-lawsuits/kaplan-march-2026",
       "date": "",
       "scraped_at": "2026-03-19T04:16:36.405943"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/navia-benefit-solutions-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-20T07:23:54.724814"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/vault-strategies-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-20T07:23:54.724820"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/university-of-pittsburgh-medical-center-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-20T07:23:54.724822"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/trinity-health-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-20T07:23:54.724824"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/modoc-medical-center-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-20T07:23:54.724825"
+    },
+    {
+      "url": "https://www.classaction.org/news/301-scrubs-settlement-resolves-class-action-lawsuit-over-june-2024-data-breach",
+      "date": "2026-03-18T00:00:00",
+      "scraped_at": "2026-03-20T07:23:54.724829"
+    },
+    {
+      "url": "https://www.classaction.org/news/ableto-tcpa-settlement-resolves-class-action-lawsuit-over-allegedly-prerecorded-voice-messages",
+      "date": "2026-03-18T00:00:00",
+      "scraped_at": "2026-03-20T07:23:54.724831"
     }
   ]
 }
