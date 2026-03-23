@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-20T07:23:54.724834",
-  "total_entries": 360,
+  "last_updated": "2026-03-23T08:33:12.342797",
+  "total_entries": 367,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -1803,6 +1803,41 @@
       "url": "https://www.classaction.org/news/ableto-tcpa-settlement-resolves-class-action-lawsuit-over-allegedly-prerecorded-voice-messages",
       "date": "2026-03-18T00:00:00",
       "scraped_at": "2026-03-20T07:23:54.724831"
+    },
+    {
+      "url": "https://www.classaction.org/blog/safe-melt-lawsuit-alleges-ice-melting-salt-is-far-from-pet-safe-as-advertised",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-23T08:33:12.342779"
+    },
+    {
+      "url": "https://www.classaction.org/news/9.6m-capital-one-erisa-settlement-ends-class-action-over-alleged-retirement-plan-mismanagement",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-23T08:33:12.342786"
+    },
+    {
+      "url": "https://www.classaction.org/news/eye-physicians-of-central-florida-settlement-ends-class-action-lawsuit-over-nov.-2023-data-breach",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-23T08:33:12.342788"
+    },
+    {
+      "url": "https://www.classaction.org/news/boostrix-settlement-ends-class-action-lawsuit-over-allegedly-misleading-advertisements",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-23T08:33:12.342790"
+    },
+    {
+      "url": "https://www.classaction.org/news/kalshi-refused-to-honor-certain-prediction-contracts-with-death-carveout-class-action-lawsuit-claims",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-23T08:33:12.342791"
+    },
+    {
+      "url": "https://www.classaction.org/news/up-to-290k-balance-autism-settlement-ends-class-action-lawsuit-over-march-2025-data-breach",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-23T08:33:12.342793"
+    },
+    {
+      "url": "https://www.classaction.org/news/belkin-hit-with-class-action-suit-after-allegedly-cancelling-support-for-smart-home-devices",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-23T08:33:12.342795"
     }
   ]
 }

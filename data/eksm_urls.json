@@ -1,7 +1,7 @@
 {
   "source": "EKSM Law",
-  "last_updated": "2026-03-20T07:24:19.815253",
-  "total_entries": 64,
+  "last_updated": "2026-03-23T08:33:40.432269",
+  "total_entries": 68,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -323,6 +323,26 @@
       "url": "https://eksm.com/active-case/dermatology-associates-announces-data-breach/",
       "date": "",
       "scraped_at": "2026-03-17T04:16:37.304567"
+    },
+    {
+      "url": "https://eksm.com/active-case/kaplan-north-america-llc-announces-18128-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-23T08:33:40.432260"
+    },
+    {
+      "url": "https://eksm.com/active-case/manhattan-retirement-foundation-d-b-a-meadowlark-hills-announces-14442-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-23T08:33:40.432264"
+    },
+    {
+      "url": "https://eksm.com/active-case/medpeds-associates-of-sarasota-announces-21430-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-23T08:33:40.432266"
+    },
+    {
+      "url": "https://eksm.com/active-case/national-association-on-drug-abuse-problems-announces-90000-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-23T08:33:40.432267"
     }
   ]
 }
