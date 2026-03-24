@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-23T08:33:12.342797",
-  "total_entries": 367,
+  "last_updated": "2026-03-24T07:17:29.982573",
+  "total_entries": 379,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -1838,6 +1838,66 @@
       "url": "https://www.classaction.org/news/belkin-hit-with-class-action-suit-after-allegedly-cancelling-support-for-smart-home-devices",
       "date": "2026-03-20T00:00:00",
       "scraped_at": "2026-03-23T08:33:12.342795"
+    },
+    {
+      "url": "https://www.classaction.org/resident-advisor-wage-lawsuits",
+      "date": "",
+      "scraped_at": "2026-03-24T07:17:29.982527"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/stockton-cardiology-medical-group-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-24T07:17:29.982538"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/heritage-bank-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-24T07:17:29.982541"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/charlottesville-settlement-company-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-24T07:17:29.982543"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-lawsuit-alleges-fabletics-charged-consumers-illegal-tariff-fees",
+      "date": "2026-03-23T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982550"
+    },
+    {
+      "url": "https://www.classaction.org/news/recalled-pursteam-steamers-expel-scalding-water-class-action-lawsuit-claims",
+      "date": "2026-03-23T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982554"
+    },
+    {
+      "url": "https://www.classaction.org/news/data-breach-lawsuit-alleges-stryker-failed-to-protect-private-info-from-march-2026-cyberattack",
+      "date": "2026-03-23T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982556"
+    },
+    {
+      "url": "https://www.classaction.org/news/nice-pak-settlement-wraps-up-class-action-lawsuit-over-2023-data-breach",
+      "date": "2026-03-23T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982559"
+    },
+    {
+      "url": "https://www.classaction.org/news/up-to-2m-university-of-southern-california-settlements-ends-class-action-over-allegedly-unlawful-late-fees",
+      "date": "2026-03-23T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982561"
+    },
+    {
+      "url": "https://www.classaction.org/news/299.5m-toyota-forklift-settlement-resolves-class-action-lawsuit-over-alleged-emission-standards-violations",
+      "date": "2026-03-23T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982564"
+    },
+    {
+      "url": "https://www.classaction.org/news/17.25m-powerschool-settlement-resolves-class-action-over-alleged-interception-of-confidential-student-communications",
+      "date": "2026-03-23T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982566"
+    },
+    {
+      "url": "https://www.classaction.org/news/2.4m-excelsior-orthopaedics-settlement-ends-class-action-lawsuit-over-june-2024-data-breach",
+      "date": "2026-03-20T00:00:00",
+      "scraped_at": "2026-03-24T07:17:29.982569"
     }
   ]
 }
