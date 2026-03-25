@@ -1,7 +1,7 @@
 {
   "source": "FMFPC",
-  "last_updated": "2026-03-24T07:18:15.674341",
-  "total_entries": 53,
+  "last_updated": "2026-03-25T07:02:59.599876",
+  "total_entries": 54,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -268,6 +268,11 @@
       "url": "https://www.fmfpc.com/arizonateas",
       "date": "2026-03-23T00:00:00",
       "scraped_at": "2026-03-24T07:18:15.674332"
+    },
+    {
+      "url": "https://www.fmfpc.com/arizonafruitjuicecocktails",
+      "date": "2026-03-24T00:00:00",
+      "scraped_at": "2026-03-25T07:02:59.599866"
     }
   ]
 }

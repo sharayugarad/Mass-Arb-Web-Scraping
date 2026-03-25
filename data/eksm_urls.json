@@ -1,7 +1,7 @@
 {
   "source": "EKSM Law",
-  "last_updated": "2026-03-24T07:18:04.710220",
-  "total_entries": 68,
+  "last_updated": "2026-03-25T07:02:51.800792",
+  "total_entries": 70,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -343,6 +343,16 @@
       "url": "https://eksm.com/active-case/national-association-on-drug-abuse-problems-announces-90000-data-breach/",
       "date": "",
       "scraped_at": "2026-03-23T08:33:40.432267"
+    },
+    {
+      "url": "https://eksm.com/active-case/heritage-bank-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-25T07:02:51.800779"
+    },
+    {
+      "url": "https://eksm.com/active-case/charlottesville-settlement-company-announces-22041-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-25T07:02:51.800787"
     }
   ]
 }
