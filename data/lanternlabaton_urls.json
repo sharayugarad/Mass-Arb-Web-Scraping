@@ -1,7 +1,7 @@
 {
   "source": "Lantern by Labaton",
-  "last_updated": "2026-03-25T07:03:06.316434",
-  "total_entries": 14,
+  "last_updated": "2026-03-26T07:36:41.289143",
+  "total_entries": 15,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -73,6 +73,11 @@
       "url": "https://lantern.labaton.com/news/the-advocate-2025-year-end-report",
       "date": "2026-03-09T00:00:00",
       "scraped_at": "2026-03-10T04:00:10.330192"
+    },
+    {
+      "url": "https://lantern.labaton.com/case/grant-money",
+      "date": "",
+      "scraped_at": "2026-03-26T07:36:41.289132"
     }
   ]
 }

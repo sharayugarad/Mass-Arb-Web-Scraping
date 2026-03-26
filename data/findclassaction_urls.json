@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-25T07:02:26.423936",
-  "total_entries": 379,
+  "last_updated": "2026-03-26T07:35:51.494407",
+  "total_entries": 393,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -1898,6 +1898,76 @@
       "url": "https://www.classaction.org/news/2.4m-excelsior-orthopaedics-settlement-ends-class-action-lawsuit-over-june-2024-data-breach",
       "date": "2026-03-20T00:00:00",
       "scraped_at": "2026-03-24T07:17:29.982569"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/hightower-advisors-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-26T07:35:51.494355"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/emanuel-medical-center-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-26T07:35:51.494363"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/quatrro-business-support-services-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-26T07:35:51.494367"
+    },
+    {
+      "url": "https://www.classaction.org/news/up-to-5.975m-wilshire-law-firm-settlement-ends-class-action-over-allegedly-unlawful-prerecorded-calls",
+      "date": "2026-03-25T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494374"
+    },
+    {
+      "url": "https://www.classaction.org/news/natures-bakery-fig-bars-not-as-wholesome-as-advertised-class-action-suit-claims",
+      "date": "2026-03-25T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494377"
+    },
+    {
+      "url": "https://www.classaction.org/news/475k-first-chatham-bank-settlement-resolves-class-action-lawsuit-over-september-2024-cyberattack",
+      "date": "2026-03-25T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494380"
+    },
+    {
+      "url": "https://www.classaction.org/news/1m-charleston-area-medical-center-settlement-ends-class-action-over-october-2024-data-breach",
+      "date": "2026-03-25T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494383"
+    },
+    {
+      "url": "https://www.classaction.org/news/a.o.-smith-class-action-lawsuit-claims-cheap-plastic-water-heater-drain-valves-are-defective",
+      "date": "2026-03-25T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494385"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-lawsuit-says-aarp-unitedhealthcare-fraudulently-deny-medicare-supplement-claims",
+      "date": "2026-03-25T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494388"
+    },
+    {
+      "url": "https://www.classaction.org/news/2.2m-drexel-university-settlement-ends-lawsuit-over-covid-19-tuition-refunds",
+      "date": "2026-03-24T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494390"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-lawsuit-alleges-glock-concealed-dangerous-chamber-defect-in-certain-pistols",
+      "date": "2026-03-24T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494393"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-suit-claims-mazda-cx-90-vehicles-contain-patently-dangerous-brake-steering-defects",
+      "date": "2026-03-24T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494395"
+    },
+    {
+      "url": "https://www.classaction.org/news/mizuno-usa-settlement-resolves-data-breach-class-action-lawsuit",
+      "date": "2026-03-24T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494398"
+    },
+    {
+      "url": "https://www.classaction.org/news/seaworld-sent-washington-consumers-emails-about-fake-sales-class-action-lawsuit-claims",
+      "date": "2026-03-24T00:00:00",
+      "scraped_at": "2026-03-26T07:35:51.494400"
     }
   ]
 }
