@@ -1,7 +1,7 @@
 {
   "source": "EKSM Law",
-  "last_updated": "2026-03-26T07:36:27.712719",
-  "total_entries": 70,
+  "last_updated": "2026-03-30T06:52:26.621531",
+  "total_entries": 74,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -353,6 +353,26 @@
       "url": "https://eksm.com/active-case/charlottesville-settlement-company-announces-22041-data-breach/",
       "date": "",
       "scraped_at": "2026-03-25T07:02:51.800787"
+    },
+    {
+      "url": "https://eksm.com/active-case/nephrology-associates-medical-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-30T06:52:26.621513"
+    },
+    {
+      "url": "https://eksm.com/active-case/cedar-valley-hospice-announces-15347-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-30T06:52:26.621521"
+    },
+    {
+      "url": "https://eksm.com/active-case/coastal-carolina-health-care-pa-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-30T06:52:26.621524"
+    },
+    {
+      "url": "https://eksm.com/active-case/hightower-holding-llc-announces-131483-data-breach/",
+      "date": "",
+      "scraped_at": "2026-03-30T06:52:26.621527"
     }
   ]
 }

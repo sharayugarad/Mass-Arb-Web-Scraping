@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-26T07:35:51.494407",
-  "total_entries": 393,
+  "last_updated": "2026-03-30T06:51:58.328534",
+  "total_entries": 410,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -1968,6 +1968,91 @@
       "url": "https://www.classaction.org/news/seaworld-sent-washington-consumers-emails-about-fake-sales-class-action-lawsuit-claims",
       "date": "2026-03-24T00:00:00",
       "scraped_at": "2026-03-26T07:35:51.494400"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/figure-technology-solutions-february-2026",
+      "date": "",
+      "scraped_at": "2026-03-30T06:51:58.328487"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/strateben-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-30T06:51:58.328494"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/monmouth-university-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-30T06:51:58.328496"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/cetera-financial-group-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-30T06:51:58.328498"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/coastal-carolina-health-care-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-30T06:51:58.328500"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/mister-guns-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-30T06:51:58.328502"
+    },
+    {
+      "url": "https://www.classaction.org/news/500k-service-spot-settlement-ends-class-action-over-alleged-failure-to-disclose-reservation-fees",
+      "date": "2026-03-27T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328507"
+    },
+    {
+      "url": "https://www.classaction.org/news/1.5m-southstate-bank-n.a.-settlement-ends-class-action-lawsuit-over-feb.-2024-data-breach",
+      "date": "2026-03-27T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328510"
+    },
+    {
+      "url": "https://www.classaction.org/news/whirlpool-side-by-side-fridge-settlement-resolves-class-action-lawsuit-over-alleged-wire-defect-in-freezer-doors",
+      "date": "2026-03-27T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328513"
+    },
+    {
+      "url": "https://www.classaction.org/news/lawsuit-qc-kinetix-illegally-fails-to-disclose-lack-of-fda-approval-of-worthless-stem-cell-regenerative-treatments-in-fl",
+      "date": "2026-03-27T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328515"
+    },
+    {
+      "url": "https://www.classaction.org/news/500k-anova-culinary-settlement-ends-class-action-lawsuit-over-alleged-song-beverly-act-violations",
+      "date": "2026-03-26T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328517"
+    },
+    {
+      "url": "https://www.classaction.org/news/2.6m-complete-payroll-solutions-settlement-resolves-class-action-lawsuit-over-early-2024-data-breach",
+      "date": "2026-03-26T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328519"
+    },
+    {
+      "url": "https://www.classaction.org/news/990k-galderma-laboratories-settlement-ends-class-action-over-alleged-benzene-contamination-in-differin-acne-treatments",
+      "date": "2026-03-26T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328522"
+    },
+    {
+      "url": "https://www.classaction.org/news/3.7m-duke-health-university-system-settlement-ends-class-action-lawsuit-over-alleged-use-of-tracking-pixels",
+      "date": "2026-03-26T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328524"
+    },
+    {
+      "url": "https://www.classaction.org/news/26m-lakeview-loan-servicing-settlement-ends-class-action-lawsuit-over-october-2021-data-breach",
+      "date": "2026-03-26T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328526"
+    },
+    {
+      "url": "https://www.classaction.org/news/frigidaire-mini-fridge-lawsuit-says-recall-failed-to-address-fire-shock-risks",
+      "date": "2026-03-26T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328528"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-lawsuit-claims-target-falsely-advertises-good-and-gather-tuna-as-sustainably-caught",
+      "date": "2026-03-26T00:00:00",
+      "scraped_at": "2026-03-30T06:51:58.328531"
     }
   ]
 }

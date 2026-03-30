@@ -1,7 +1,7 @@
 {
   "source": "Lantern by Labaton",
-  "last_updated": "2026-03-26T07:36:41.289143",
-  "total_entries": 15,
+  "last_updated": "2026-03-30T06:52:41.465087",
+  "total_entries": 17,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -78,6 +78,16 @@
       "url": "https://lantern.labaton.com/case/grant-money",
       "date": "",
       "scraped_at": "2026-03-26T07:36:41.289132"
+    },
+    {
+      "url": "https://lantern.labaton.com/case/tilt",
+      "date": "",
+      "scraped_at": "2026-03-30T06:52:41.465076"
+    },
+    {
+      "url": "https://lantern.labaton.com/case/earnin",
+      "date": "",
+      "scraped_at": "2026-03-30T06:52:41.465084"
     }
   ]
 }

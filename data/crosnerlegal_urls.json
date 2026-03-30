@@ -1,7 +1,7 @@
 {
   "source": "Crosner Legal",
-  "last_updated": "2026-03-26T07:36:20.708261",
-  "total_entries": 35,
+  "last_updated": "2026-03-30T06:52:17.251952",
+  "total_entries": 41,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -178,6 +178,36 @@
       "url": "https://crosnerlegal.com/wage-hour-claims-construction-employer-oregon-washington/",
       "date": "2026-03-25T01:20:07",
       "scraped_at": "2026-03-25T07:02:44.185628"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-consumer-fraud-deceptive-practices-lawyer-2/",
+      "date": "2026-03-27T23:33:11",
+      "scraped_at": "2026-03-30T06:52:17.251926"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-digital-privacy-anti-spam-lawyer-2/",
+      "date": "2026-03-27T23:34:09",
+      "scraped_at": "2026-03-30T06:52:17.251938"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-whistleblower-retaliation-lawyer/",
+      "date": "2026-03-27T23:38:00",
+      "scraped_at": "2026-03-30T06:52:17.251941"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-harassment-sexual-harassment-lawyer/",
+      "date": "2026-03-27T23:40:39",
+      "scraped_at": "2026-03-30T06:52:17.251943"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-unpaid-wages-overtime-lawyer/",
+      "date": "2026-03-27T23:53:12",
+      "scraped_at": "2026-03-30T06:52:17.251946"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-workplace-discrimination-lawyer-2/",
+      "date": "2026-03-27T23:57:34",
+      "scraped_at": "2026-03-30T06:52:17.251949"
     }
   ]
 }
