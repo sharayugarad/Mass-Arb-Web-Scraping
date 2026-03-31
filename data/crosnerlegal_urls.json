@@ -1,7 +1,7 @@
 {
   "source": "Crosner Legal",
-  "last_updated": "2026-03-30T06:52:17.251952",
-  "total_entries": 41,
+  "last_updated": "2026-03-31T23:47:35.101948",
+  "total_entries": 42,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -208,6 +208,11 @@
       "url": "https://crosnerlegal.com/practice-areas/oregon-workplace-discrimination-lawyer-2/",
       "date": "2026-03-27T23:57:34",
       "scraped_at": "2026-03-30T06:52:17.251949"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/oregon-publicity-rights-lawyer/",
+      "date": "2026-03-31T03:18:12",
+      "scraped_at": "2026-03-31T23:47:35.101943"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-30T06:51:58.328534",
-  "total_entries": 410,
+  "last_updated": "2026-03-31T23:47:12.482269",
+  "total_entries": 415,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -2053,6 +2053,31 @@
       "url": "https://www.classaction.org/news/class-action-lawsuit-claims-target-falsely-advertises-good-and-gather-tuna-as-sustainably-caught",
       "date": "2026-03-26T00:00:00",
       "scraped_at": "2026-03-30T06:51:58.328531"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/rocky-mountain-care-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-31T23:47:12.482245"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/income-property-management-march-2026",
+      "date": "",
+      "scraped_at": "2026-03-31T23:47:12.482252"
+    },
+    {
+      "url": "https://www.classaction.org/news/wayfair-class-action-lawsuit-claims-retailers-return-policy-deceives-consumers",
+      "date": "2026-03-30T00:00:00",
+      "scraped_at": "2026-03-31T23:47:12.482259"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-claims-seel-unlawfully-offers-shipping-insurance-as-an-unadmitted-insurer-in-california",
+      "date": "2026-03-30T00:00:00",
+      "scraped_at": "2026-03-31T23:47:12.482262"
+    },
+    {
+      "url": "https://www.classaction.org/news/610k-the-computer-merchant-settlement-ends-class-action-lawsuit-over-july-2024-data-breach",
+      "date": "2026-03-30T00:00:00",
+      "scraped_at": "2026-03-31T23:47:12.482264"
     }
   ]
 }

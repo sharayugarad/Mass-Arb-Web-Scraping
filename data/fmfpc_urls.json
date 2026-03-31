@@ -1,7 +1,7 @@
 {
   "source": "FMFPC",
-  "last_updated": "2026-03-30T06:52:32.511403",
-  "total_entries": 54,
+  "last_updated": "2026-03-31T23:48:04.990282",
+  "total_entries": 56,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -273,6 +273,16 @@
       "url": "https://www.fmfpc.com/arizonafruitjuicecocktails",
       "date": "2026-03-24T00:00:00",
       "scraped_at": "2026-03-25T07:02:59.599866"
+    },
+    {
+      "url": "https://www.fmfpc.com/dodgeramtrucks",
+      "date": "2026-03-31T00:00:00",
+      "scraped_at": "2026-03-31T23:48:04.990269"
+    },
+    {
+      "url": "https://www.fmfpc.com/slstoothpastes",
+      "date": "2026-03-31T00:00:00",
+      "scraped_at": "2026-03-31T23:48:04.990276"
     }
   ]
 }

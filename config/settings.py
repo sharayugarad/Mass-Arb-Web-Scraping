@@ -4,42 +4,63 @@ Configuration module for the class action scraper project.
 import os
 from pathlib import Path
 
-# Path to the secrets env file (update this to the actual location)
 from dotenv import load_dotenv
-SECRETS_ENV_PATH = Path('/Users/sharayu/CodeLab/Local Secrets/secrets.local.env')
-
-if SECRETS_ENV_PATH.exists():
-    load_dotenv(dotenv_path=SECRETS_ENV_PATH)
-else:
-    print(
-        f"WARNING: Secrets file not found at {SECRETS_ENV_PATH}. "
-        f"Update SECRETS_ENV_PATH in config/settings.py to the correct location."
-    )
 
 # Base directories
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / 'data'
 LOGS_DIR = BASE_DIR / 'logs'
 CONFIG_DIR = BASE_DIR / 'config'
+PROJECT_ENV_PATH = BASE_DIR / '.env'
+SECRETS_ENV_PATH = Path('/Users/lakshmideepak/CodeLab/GitHub/secrets.local.env')
 
 # Create directories if they don't exist
 DATA_DIR.mkdir(exist_ok=True)
 LOGS_DIR.mkdir(exist_ok=True)
 
+
+def load_environment():
+    """Load environment variables from the configured secrets file or project .env."""
+    loaded_paths = []
+
+    for env_path in (SECRETS_ENV_PATH, PROJECT_ENV_PATH):
+        if env_path.exists():
+            load_dotenv(dotenv_path=env_path)
+            loaded_paths.append(str(env_path))
+
+    if not loaded_paths:
+        print(
+            "WARNING: No environment file found. "
+            f"Checked {SECRETS_ENV_PATH} and {PROJECT_ENV_PATH}."
+        )
+
+
+load_environment()
+
+
+def get_env(*names, default=''):
+    """Return the first non-empty environment variable from the provided names."""
+    for name in names:
+        value = os.getenv(name)
+        if value:
+            return value
+    return default
+
+
 # Load Email Configuration from environment variables (.env file)
 def load_email_config():
     """Load email configuration from environment variables."""
-    receiver_emails_raw = os.getenv('RECEIVER_EMAILS', '')
+    receiver_emails_raw = get_env('RECEIVER_EMAILS', 'DEFAULT_RECIPIENTS', default='')
     receiver_emails = [
         email.strip() for email in receiver_emails_raw.split(',') if email.strip()
     ]
 
     config = {
-        'smtp_server': os.getenv('SMTP_SERVER', ''),
-        'smtp_port': int(os.getenv('SMTP_PORT', 0)),
-        'use_ssl': os.getenv('USE_SSL', 'false').lower() == 'true',
-        'sender_email': os.getenv('SENDER_EMAIL', ''),
-        'sender_password': os.getenv('SENDER_PASSWORD', ''),
+        'smtp_server': get_env('SMTP_SERVER', 'SMTP_HOST', default=''),
+        'smtp_port': int(get_env('SMTP_PORT', default='0')),
+        'use_ssl': get_env('USE_SSL', 'SMTP_USE_SSL', default='false').lower() == 'true',
+        'sender_email': get_env('SENDER_EMAIL', 'EMAIL_FROM', 'SMTP_USER', default=''),
+        'sender_password': get_env('SENDER_PASSWORD', 'SMTP_PASSWORD', default=''),
         'receiver_emails': receiver_emails,
     }
 
