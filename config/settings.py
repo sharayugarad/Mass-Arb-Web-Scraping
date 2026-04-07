@@ -12,7 +12,7 @@ DATA_DIR = BASE_DIR / 'data'
 LOGS_DIR = BASE_DIR / 'logs'
 CONFIG_DIR = BASE_DIR / 'config'
 PROJECT_ENV_PATH = BASE_DIR / '.env'
-SECRETS_ENV_PATH = Path('/Users/lakshmideepak/CodeLab/GitHub/secrets.local.env')
+SECRETS_ENV_PATH = Path('/Users/sharayu/CodeLab/Local Secrets/secrets.local.env')
 
 # Create directories if they don't exist
 DATA_DIR.mkdir(exist_ok=True)
