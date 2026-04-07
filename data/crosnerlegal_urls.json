@@ -1,7 +1,7 @@
 {
   "source": "Crosner Legal",
-  "last_updated": "2026-03-31T23:47:35.101948",
-  "total_entries": 42,
+  "last_updated": "2026-04-07T07:21:45.339088",
+  "total_entries": 59,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -213,6 +213,91 @@
       "url": "https://crosnerlegal.com/practice-areas/oregon-publicity-rights-lawyer/",
       "date": "2026-03-31T03:18:12",
       "scraped_at": "2026-03-31T23:47:35.101943"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/wage-and-hour/",
+      "date": "2026-04-03T22:10:01",
+      "scraped_at": "2026-04-07T07:21:45.339043"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/healthcare-workers-wage-hour-settlement/",
+      "date": "2026-04-07T00:08:46",
+      "scraped_at": "2026-04-07T07:21:45.339048"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/transportation-workers-wage-hour-2-3/",
+      "date": "2026-04-07T00:13:37",
+      "scraped_at": "2026-04-07T07:21:45.339051"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/security-workers-wage-hour-settlement/",
+      "date": "2026-04-07T00:31:18",
+      "scraped_at": "2026-04-07T07:21:45.339054"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/security-workers-wage-hour-washington-2/",
+      "date": "2026-04-07T00:35:19",
+      "scraped_at": "2026-04-07T07:21:45.339056"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/administrative-workers-wage-hour-california-2/",
+      "date": "2026-04-07T00:41:35",
+      "scraped_at": "2026-04-07T07:21:45.339058"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/it-service-workers-wage-hour-california-4/",
+      "date": "2026-04-07T00:52:04",
+      "scraped_at": "2026-04-07T07:21:45.339061"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/restaurant-workers-wage-hour-california-5/",
+      "date": "2026-04-07T00:56:34",
+      "scraped_at": "2026-04-07T07:21:45.339063"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/resort-workers-wage-hour-california/",
+      "date": "2026-04-07T00:59:16",
+      "scraped_at": "2026-04-07T07:21:45.339066"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/warehouse-workers-wage-hour-california/",
+      "date": "2026-04-07T01:07:35",
+      "scraped_at": "2026-04-07T07:21:45.339068"
+    },
+    {
+      "url": "https://crosnerlegal.com/case/building-maintenance-workers-wage-hour-9/",
+      "date": "2026-04-07T01:11:11",
+      "scraped_at": "2026-04-07T07:21:45.339071"
+    },
+    {
+      "url": "https://crosnerlegal.com/attorney/james-reid-a/",
+      "date": "2026-04-03T23:58:48",
+      "scraped_at": "2026-04-07T07:21:45.339073"
+    },
+    {
+      "url": "https://crosnerlegal.com/attorney/cameron-flynn/",
+      "date": "2026-04-04T00:08:08",
+      "scraped_at": "2026-04-07T07:21:45.339076"
+    },
+    {
+      "url": "https://crosnerlegal.com/attorney/mike-houchin-a/",
+      "date": "2026-04-04T00:09:29",
+      "scraped_at": "2026-04-07T07:21:45.339078"
+    },
+    {
+      "url": "https://crosnerlegal.com/attorney/sam-fenton/",
+      "date": "2026-04-04T00:17:24",
+      "scraped_at": "2026-04-07T07:21:45.339080"
+    },
+    {
+      "url": "https://crosnerlegal.com/attorney/victoria-tori-ainsworth-a/",
+      "date": "2026-04-04T00:18:19",
+      "scraped_at": "2026-04-07T07:21:45.339083"
+    },
+    {
+      "url": "https://crosnerlegal.com/attorney/emanuel-raya/",
+      "date": "2026-04-06T19:35:25",
+      "scraped_at": "2026-04-07T07:21:45.339085"
     }
   ]
 }

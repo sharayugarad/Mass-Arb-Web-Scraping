@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-03-31T23:47:12.482269",
-  "total_entries": 415,
+  "last_updated": "2026-04-07T07:21:27.852599",
+  "total_entries": 442,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -2078,6 +2078,141 @@
       "url": "https://www.classaction.org/news/610k-the-computer-merchant-settlement-ends-class-action-lawsuit-over-july-2024-data-breach",
       "date": "2026-03-30T00:00:00",
       "scraped_at": "2026-03-31T23:47:12.482264"
+    },
+    {
+      "url": "https://www.classaction.org/silica-dust-silicosis-lawsuits-lawyers",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852531"
+    },
+    {
+      "url": "https://www.classaction.org/hidden-apartment-fees-utilities-lawsuit",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852540"
+    },
+    {
+      "url": "https://www.classaction.org/blog/nest-lawsuit-alleges-google-unfairly-bricked-first--second-gen-learning-thermostats",
+      "date": "2026-04-02T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852546"
+    },
+    {
+      "url": "https://www.classaction.org/",
+      "date": "2026-04-02T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852549"
+    },
+    {
+      "url": "https://www.classaction.org/blog/despite-privacy-promises-meta-third-parties-read-and-store-whatsapp-messages-class-action-lawsuit-alleges",
+      "date": "2026-04-01T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852551"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/docketwise-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852553"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/illumifin-march-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852555"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/baltimore-medical-system-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852557"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/charles-river-insurance-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852559"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/southern-illinois-dermatology-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852560"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/ippc-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852562"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/hims-and-hers-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852563"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/palacios-marine-and-industrial-coatings-march-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852565"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/mobilelink-march-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852566"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/liberty-bankers-life-insurance-company-march-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852568"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/proxycare-march-2026",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:27.852570"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-alleges-ener-c-drink-mixes-are-falsely-advertised-as-all-natural",
+      "date": "2026-04-06T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852573"
+    },
+    {
+      "url": "https://www.classaction.org/news/hexpol-settlement-ends-class-action-lawsuit-over-december-2024-data-breach",
+      "date": "2026-04-06T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852576"
+    },
+    {
+      "url": "https://www.classaction.org/news/pacha-soap-products-do-not-contain-advertised-ingredients-class-action-lawsuit-says",
+      "date": "2026-04-06T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852579"
+    },
+    {
+      "url": "https://www.classaction.org/news/up-to-500k-evening-post-publishing-settlement-ends-class-action-lawsuit-over-march-2024-data-breach",
+      "date": "2026-04-06T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852581"
+    },
+    {
+      "url": "https://www.classaction.org/news/3.85m-boston-sports-club-settlement-resolves-ag-suit-over-membership-billing-amid-covid-19-pandemic",
+      "date": "2026-04-03T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852583"
+    },
+    {
+      "url": "https://www.classaction.org/news/1.02m-avis-settlement-resolves-class-action-lawsuit-over-august-2024-data-breach",
+      "date": "2026-04-03T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852585"
+    },
+    {
+      "url": "https://www.classaction.org/news/4.5m-athena-bitcoin-settlement-ends-class-action-lawsuit-over-alleged-telemarketing-texts",
+      "date": "2026-04-03T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852587"
+    },
+    {
+      "url": "https://www.classaction.org/news/1.32m-asp-aesthetics-settlement-ends-class-action-lawsuit-over-alleged-marketing-texts",
+      "date": "2026-04-03T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852589"
+    },
+    {
+      "url": "https://www.classaction.org/news/2.39m-union-bank-and-trust-settlement-ends-class-action-lawsuit-over-may-2023-moveit-data-breach",
+      "date": "2026-04-02T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852592"
+    },
+    {
+      "url": "https://www.classaction.org/news/pgt-a-lawsuit-claims-experimental-unproven-genetic-testing-falsely-touted-as-accurate-and-reliable",
+      "date": "2026-04-02T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852594"
+    },
+    {
+      "url": "https://www.classaction.org/news/150m-adobe-settlement-ends-doj-lawsuit-over-terms-and-conditions-of-online-subscriptions",
+      "date": "2026-04-02T00:00:00",
+      "scraped_at": "2026-04-07T07:21:27.852596"
     }
   ]
 }

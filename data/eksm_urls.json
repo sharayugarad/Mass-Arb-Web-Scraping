@@ -1,7 +1,7 @@
 {
   "source": "EKSM Law",
-  "last_updated": "2026-03-31T23:47:53.430450",
-  "total_entries": 74,
+  "last_updated": "2026-04-07T07:21:53.240041",
+  "total_entries": 78,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -373,6 +373,26 @@
       "url": "https://eksm.com/active-case/hightower-holding-llc-announces-131483-data-breach/",
       "date": "",
       "scraped_at": "2026-03-30T06:52:26.621527"
+    },
+    {
+      "url": "https://eksm.com/active-case/nacogdoches-memorial-hospital-announces-257073-data-breach/",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:53.240027"
+    },
+    {
+      "url": "https://eksm.com/active-case/austin-plastic-and-reconstructive-surgery-announces-4041-data-breach/",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:53.240033"
+    },
+    {
+      "url": "https://eksm.com/active-case/atlantic-brain-and-spine-pa-announces-data-breach/",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:53.240035"
+    },
+    {
+      "url": "https://eksm.com/active-case/mobilelink-announces-12201-data-breach/",
+      "date": "",
+      "scraped_at": "2026-04-07T07:21:53.240038"
     }
   ]
 }
