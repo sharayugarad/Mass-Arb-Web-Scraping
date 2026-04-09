@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-04-08T07:04:32.785803",
-  "total_entries": 442,
+  "last_updated": "2026-04-09T07:32:43.794109",
+  "total_entries": 449,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -2213,6 +2213,41 @@
       "url": "https://www.classaction.org/news/150m-adobe-settlement-ends-doj-lawsuit-over-terms-and-conditions-of-online-subscriptions",
       "date": "2026-04-02T00:00:00",
       "scraped_at": "2026-04-07T07:21:27.852596"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/neinstein-plastic-surgery-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-09T07:32:43.794076"
+    },
+    {
+      "url": "https://www.classaction.org/news/24.75m-grubhub-settlement-ends-class-action-lawsuit-over-alleged-california-delivery-driver-misclassification",
+      "date": "2026-04-08T00:00:00",
+      "scraped_at": "2026-04-09T07:32:43.794090"
+    },
+    {
+      "url": "https://www.classaction.org/news/crunchyroll-failed-to-prevent-march-2026-data-breach-class-action-lawsuit-alleges",
+      "date": "2026-04-07T00:00:00",
+      "scraped_at": "2026-04-09T07:32:43.794094"
+    },
+    {
+      "url": "https://www.classaction.org/news/1.45m-orthopedicsny-settlement-ends-class-action-lawsuit-over-december-2023-data-breach",
+      "date": "2026-04-07T00:00:00",
+      "scraped_at": "2026-04-09T07:32:43.794097"
+    },
+    {
+      "url": "https://www.classaction.org/news/lawsuit-says-rawlings-falsely-advertised-baseball-fastpitch-bats-as-materially-improved-despite-only-cosmetic-upgrades",
+      "date": "2026-04-07T00:00:00",
+      "scraped_at": "2026-04-09T07:32:43.794100"
+    },
+    {
+      "url": "https://www.classaction.org/news/government-contractor-opexus-hit-with-class-action-lawsuit-over-february-2025-data-breach",
+      "date": "2026-04-07T00:00:00",
+      "scraped_at": "2026-04-09T07:32:43.794103"
+    },
+    {
+      "url": "https://www.classaction.org/news/cameo-class-action-lawsuit-says-platform-employs-illegal-drip-pricing-for-personalized-video-messages",
+      "date": "2026-04-07T00:00:00",
+      "scraped_at": "2026-04-09T07:32:43.794105"
     }
   ]
 }

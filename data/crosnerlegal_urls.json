@@ -1,7 +1,7 @@
 {
   "source": "Crosner Legal",
-  "last_updated": "2026-04-08T07:04:58.388923",
-  "total_entries": 59,
+  "last_updated": "2026-04-09T07:33:00.658088",
+  "total_entries": 63,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -298,6 +298,26 @@
       "url": "https://crosnerlegal.com/attorney/emanuel-raya/",
       "date": "2026-04-06T19:35:25",
       "scraped_at": "2026-04-07T07:21:45.339085"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/consumer-protection/",
+      "date": "2026-04-09T01:27:31",
+      "scraped_at": "2026-04-09T07:33:00.658058"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/privacy-rights/",
+      "date": "2026-04-09T01:32:54",
+      "scraped_at": "2026-04-09T07:33:00.658066"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/mass-arbitration/",
+      "date": "2026-04-09T01:36:58",
+      "scraped_at": "2026-04-09T07:33:00.658070"
+    },
+    {
+      "url": "https://crosnerlegal.com/practice-areas/discrimination-sexual-harassment/",
+      "date": "2026-04-09T01:43:31",
+      "scraped_at": "2026-04-09T07:33:00.658076"
     }
   ]
 }
