@@ -42,11 +42,16 @@ class CrosnerLegalScraper(BaseScraper):
                     continue
             
             logger.info(f"Found {len(url_data)} total URLs from all sitemaps")
-            
-            # Filter by date (only after Jan 1, 2026)
-            url_data = self.filter_by_date(url_data, require_date=False)
-            
-            logger.info(f"After date filtering: {len(url_data)} URLs")
+
+            # Case URLs are included regardless of lastmod date (many have old dates but are still valid)
+            # Non-case URLs are filtered to only include those after Jan 1, 2026
+            case_url_data = [item for item in url_data if '/case/' in item.get('url', '')]
+            other_url_data = [item for item in url_data if '/case/' not in item.get('url', '')]
+
+            filtered_other = self.filter_by_date(other_url_data, require_date=False)
+            url_data = case_url_data + filtered_other
+
+            logger.info(f"After date filtering: {len(url_data)} URLs ({len(case_url_data)} case URLs + {len(filtered_other)} other URLs)")
             
         except Exception as e:
             logger.error(f"Error during scraping: {e}")

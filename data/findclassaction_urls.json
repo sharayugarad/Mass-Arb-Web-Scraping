@@ -1,7 +1,7 @@
 {
   "source": "Find Class Action (Jotform)",
-  "last_updated": "2026-04-09T07:32:43.794109",
-  "total_entries": 449,
+  "last_updated": "2026-04-10T07:29:00.174266",
+  "total_entries": 459,
   "cutoff_date": "2026-01-01",
   "entries": [
     {
@@ -2248,6 +2248,56 @@
       "url": "https://www.classaction.org/news/cameo-class-action-lawsuit-says-platform-employs-illegal-drip-pricing-for-personalized-video-messages",
       "date": "2026-04-07T00:00:00",
       "scraped_at": "2026-04-09T07:32:43.794105"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/woodfords-family-services-march-2026",
+      "date": "",
+      "scraped_at": "2026-04-09T12:07:08.464653"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-claims-n.j.-waste-management-facility-releases-noxious-odors-into-residential-area",
+      "date": "2026-04-08T00:00:00",
+      "scraped_at": "2026-04-09T12:07:08.464666"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-lawsuit-claims-cvs-caremark-sold-drug-formulary-access-retained-health-plan-rebates",
+      "date": "2026-04-08T00:00:00",
+      "scraped_at": "2026-04-09T12:07:08.464670"
+    },
+    {
+      "url": "https://www.classaction.org/news/antitrust-lawsuit-accuses-major-fertilizer-manufacturers-of-illegal-price-fixing-scheme",
+      "date": "2026-04-08T00:00:00",
+      "scraped_at": "2026-04-09T12:07:08.464673"
+    },
+    {
+      "url": "https://www.classaction.org/news/2.9m-toms-toothpaste-settlement-ends-class-action-over-alleged-product-contamination",
+      "date": "2026-04-08T00:00:00",
+      "scraped_at": "2026-04-09T12:07:08.464676"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/truview-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-10T07:29:00.174237"
+    },
+    {
+      "url": "https://www.classaction.org/data-breach-lawsuits/onedigital-april-2026",
+      "date": "",
+      "scraped_at": "2026-04-10T07:29:00.174246"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-audi-door-lock-lawsuit-filed-over-alleged-locking-mechanism-defect",
+      "date": "2026-04-09T00:00:00",
+      "scraped_at": "2026-04-10T07:29:00.174254"
+    },
+    {
+      "url": "https://www.classaction.org/news/nordic-ware-class-action-lawsuit-challenges-made-in-the-usa-claims",
+      "date": "2026-04-09T00:00:00",
+      "scraped_at": "2026-04-10T07:29:00.174258"
+    },
+    {
+      "url": "https://www.classaction.org/news/class-action-lawsuit-claims-jolie-filtered-showerheads-leave-substantial-amount-of-chlorine-in-water",
+      "date": "2026-04-09T00:00:00",
+      "scraped_at": "2026-04-10T07:29:00.174261"
     }
   ]
 }
